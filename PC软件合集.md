@@ -835,6 +835,10 @@ FreeFileSync 是一款跨平台支持 Windows 、macOS 、Linux 设备的开源�
 
 卸载工具
 
+## Genact
+
+程序员摸鱼工具，假装自己在工作
+
 ## Genie Timeline Home 10
 
 不定时自动备份工具
@@ -2462,6 +2466,12 @@ WPS 图片是金山旗下的一款功能强大的图片浏览与处理工具 。
 ## Writage
 
 Word文档直接另存为MarkDown格式
+
+## XAMPP
+
+An easy to install Apache distribution containing MySQL, PHP, and Perl        
+
+简易LAMP
 
 ## XinBSConceptClock
 
