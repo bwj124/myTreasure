@@ -1,5 +1,136 @@
 # PC软件合集
 
+## 16款良心工具
+
+### Windows Update Blocker
+
+-   **软件功能：**禁止系统更新**文件大小：**980KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/9470/windows-update-blocker-v1-6/
+
+### Firewall App Blocker
+
+-   **软件功能：**防火墙阻止程序
+-   **文件大小：**1.11MB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/8125/firewall-app-blocker-fab-v1-7/
+
+### Defender Control
+
+-   **软件功能：**Defender一键开关
+-   **文件大小：**980KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/9480/defender-control-v1-8/
+
+### PowerRun
+
+-   **软件功能：获取系统最高权限**
+-   **文件大小：**968KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/9416/powerrun-v1-4-run-with-highest-privileges/
+-   **NSudo：**https://vip.jokerps.com/8713.html
+
+### Simple Run Blocker
+
+-   **软件功能：**禁止软件运行
+-   **文件大小：**417KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/8486/simple-run-blocker-v1-5/
+
+### URL Disabler
+
+-   **软件功能：**禁止网址访问
+-   **文件大小：**897KB
+-   **语言支持：**英语、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/13075/url-disabler-v1-0/
+
+### Net Disabler
+
+-   **软件功能：**阻止网络连接
+-   **文件大小：**1.05MB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/9660/net-disabler-v1-1/
+
+### BlueLife KeyFreeze
+
+-   **软件功能：**禁止鼠标键盘操作
+-   **文件大小：**912KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/7921/bluelife-keyfreeze-v1-4-block-keyboard-and-mouse/
+
+### Easy Context Menu
+
+-   **软件功能：**右键菜单工具
+-   **文件大小：**1.58MB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/7615/easy-context-menu-v1-6/
+
+### Folder Painter
+
+-   **软件功能：**文件夹样式工具
+-   **文件大小：**980KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/10124/folder-painter-v1-3
+
+### Drive Letter Changer
+
+-   **软件功能：**盘符更改工具
+-   **文件大小：**915KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/8501/drive-letter-changer-v1-4/
+
+### Backup Start Menu Layout
+
+-   **软件功能：**开始菜单备份工具
+-   **文件大小：**914KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/10997/backup-start-menu-layout-v1-4/
+
+### Window TopMost Control
+
+-   **软件功能：**窗口置顶工具
+-   **文件大小：**791KB
+-   **语言支持：**英语、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/9182/window-topmost-control-v1-2/
+
+### Bpuzzle
+
+-   **软件功能：**智力拼图游戏
+-   **文件大小：**2.25MB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/8058/bpuzzle-v1-2/
+
+### Dns Jumper
+
+-   **软件功能：**DNS优选工具
+-   **文件大小：**614KB
+-   **语言支持：**简体中文、多国语言
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/7952/dns-jumper-v2-2/
+-   **DNS优选：**https://vip.jokerps.com/4807.html
+
+### Dns Lock
+
+-   **软件功能：**DNS锁定工具
+-   **文件大小：**962KB
+-   **语言支持：**英语
+-   **支持系统：** Windows 10，Windows 8.1，Windows 8，Windows 7，Windows Vista，Windows XP
+-   https://www.sordum.org/9432/dns-lock-v1-4/
+
 ## 2345看图王
 
 看图工具，较其他产品很良心
@@ -64,6 +195,10 @@ Advanced Renamer 是一款非常强大的批量为文件进行重命名操作的
 
 清理系统垃圾，加速运行速度，修复注册表
 
+## Advanced SystemCare Ultimate
+
+Advanced SystemCare Ultimate 具备 Advanced SystemCare 专业版的所有功能，另外还增加了木马查杀、病毒防护等安全模块，相当于一个系统优化软件 + 一个病毒防护软件。
+
 ## AG视频解析
 
 解析下载各大视频网站（腾讯、爱奇异、油管……）的视频
@@ -108,6 +243,10 @@ Alldup 是一款可以快速搜索并删除计算机上重复文件的电脑软�
 
 安卓开发
 
+## AnimeBoard
+
+动画黑板，可以用于知识类视频的制作
+
 ## Anvi Folder Locker 
 
 隐藏文件，文件上锁
@@ -123,6 +262,14 @@ AnyDesk 是一款稳定流畅且完全免费的远程桌面连接控制工具 �
 全文搜索工具
 
 AnyTXT Searcher 是一款适用于 Windows 平台的文件搜索神器 。相比 Everything 和 Listary  ，这款软件更加小巧便捷 ，而且支持超级强大的文本内容搜索 。当你不知道文件名 ，只是模糊记得文件内的部分文本 ，都可以使用 AnyTXT  Searcher 来快速查找到具体的文件名和位置 ，并支持分类搜索 txt 、word 、pdf 、ppt 等多种格式文件  ，让你查找文件快人一步 。
+
+## ApowerRec
+
+ApowerRec 的中文名是“傲软录屏”，提供了全屏录制、区域录制、画中画等多种录制视频模式。
+
+不管你是录制电脑桌面操作、娱乐视频、在线会议，或是录制教学视频等等，ApowerRec 都能轻松搞定。
+
+ApowerRec 还提供了丰富的自定义参数设置功能，你可以自定义设置视频的输出格式、帧速率、比特率、编码器、品质以及音频的输出格式、比特率、频率等等。
 
 ## AquaSnap
 
@@ -146,9 +293,15 @@ Arctime 是一款功能强大的跨平台字幕制作软件 。完美适配 Mac 
 
 Ashampoo Taskbar Customizer的功能很简单，就是设置 Windows 任务栏为透明模式，或者还可以根据自己的喜好将任务栏设置为其他颜色.
 
+## Ashampoo UnInstaller
+
+Ashampoo UnInstaller 软件的基本功能：卸载软件，监控软件的安装，卸载浏览器插件，卸载Windows UWP应用。
+
 ## Ashampoo Winoptimizer
 
 电脑优化清理工具
+
+Ashampoo WinOptimizer  软件集系统垃圾清理、安全防护、启动项管理、网络加速、进程管理、软件卸载、游戏加速、硬件管理、文件备份、图标管理、文件分割、一键优化、隐私保护等等多种功能于一身，操作简单但功能全面，一款软件就能搞定系统优化和安全防护等各种需求。
 
 ## Astah Community/UML
 
@@ -165,6 +318,10 @@ UML制图
 ## Avira
 
 即小红伞，杀毒软件
+
+## Background Eraser
+
+Apowersoft Background Eraser，傲软抠图是由傲软（APOWERSOFT）软件出品，可以自动识别，一键抠图换背景的软件，使用智能 AI  加持，能够快速扣人像、商品、公章、各种图形等，还能快速更换证件照底色，裁剪尺寸等，堪称证件照制作的小能手。
 
 ## BaiduPCS-Go
 
@@ -291,6 +448,10 @@ BlueStacks 5 是一款非常强大的适用于 Windows 电脑的安卓模拟器 
 ## Bypass
 
 Bypass-分流抢票，抢火车票
+
+## Cache Relocator
+
+浏览器缓存重定向，如谷歌浏览器，火狐浏览器
 
 ## Calibre
 
@@ -420,6 +581,10 @@ windows右键管理
 ## Coodesker
 
 桌面整理软件，只有5M，但功能很多，可以盒子套盒子（套娃）
+
+## Coolutils PDF Converter
+
+PDF全能转换器
 
 ## CopyQ
 
@@ -564,6 +729,28 @@ Dism++ 是一款功能强大的 Windows 系统管理优化工具 。软件拥有
 
 Ditto 是一款免费开源的剪贴板增强工具 。和系统自带的剪切板相比 ，Ditto 不仅可以帮你多段复制 、粘贴多条记录 ，还支持合并粘贴 、记录分组 、剪切板搜索 、同步剪切板等多种实用功能 ，大大提高了日常工作效率 。
 
+## DNS设置
+
+影响你上网体验的因素有很多，其中DNS也是其中一个，关于DNS的详细解释我就不赘述了，大家可以百度一下，反正我们平时经常遇到网络看似正常，但就是无法访问网页以及其他一些迷之情况，这时你去百度，大多数人都会让你第一时间检查一下DNS。
+
+通常情况下，我们使用运营商默认DNS即可，但还是有很多用户为了获得更好的上网体验，去选择一些免费的共用DNS，那我们该去哪里找到高质量的DNS呢？
+
+### DND优选
+
+来自吾爱大佬 @繁华中的沉默 的一款工具，与 DnsJumper 功能相同，可测试、可自动选择，只不过这里内置的都是国内的一些常用DNS；
+
+### DnsJumper
+
+这是一款国外的DNS优选工具，内置了很多不错的DNS（当然同样来自国外），可自定义添加，绿色便携，整个压缩包大小为615KB，解压完成直接运行应用程序即可；
+
+我们可以通过点击“最快DNS”来测试所有DNS速度，选择延迟最低的一项，右键可标记、浏览信息，或直接应用即可；
+
+### Dns Lock
+
+如果你的网页经常出现莫名跳转、出现广告等情况，有可能你的DNS被劫持、篡改，除了更换一个其他DNS，你还可以使用下面这款工具来锁定，它的使用方法很简单，在列表中选择你目前正在使用的DNS，然后点击install即可；
+
+相反，如果想解除锁定，点击Uninstall即可；
+
 ## Donemax Data Recovery
 
 数据恢复软件
@@ -638,6 +825,12 @@ EarTrumpet 是一款 Win10 的第三方音量辅助工具 。它能实现单独�
 
 制作CHM文件
 
+## EasyRC
+
+傻瓜式重装系统，可以离线和在线安装
+
+其他功能：备份还原、磁盘分区、驱动导入、系统迁移、修复引导
+
 ## Easy视频剪辑工具
 
 轻量级视频剪辑
@@ -665,6 +858,12 @@ Java IDE
 空白文件夹清理工具
 
 Empty Folder Finder是一款非常实用的电脑空白文件夹检测与清理工具 。软件虽然没有汉化版 ，但操作非常简单 ，只需选择要扫描的路径  ，再点击右下角的 Go 选项即可快速扫描该路径下所有的空文件夹 。在弹出的列表中 ，可以自由浏览所有文件夹 ，支持批量查看和删除 。此外  ，软件还支持添加指定拓展名 ，让你查找更加精准高效
+
+## Encrypto
+
+免费易用的电脑文件加密神器
+
+Encrypto 是一款完全免费且操作简单便捷的电脑文件及文件夹加密工具。软件界面及加密动画都非常炫酷，不仅拥有 Windows 版本，还支持 Mac  使用。它没有复杂的功能，但却使用了安全性极高的 AES-256  加密算法，你只需将需要加密的文件或文件夹拖拽到软件窗口内，并为其设置一个密码后，即可生成一个 .crypto  格式的加密文件。当你点击后输入密码即可解密并还原文件，基本能满足日常工作上大多数的应用场景，可最大程度上保护你的隐私安全。
 
 ## Epic Pen 
 
@@ -733,6 +932,10 @@ FDM 是一款非常强大的下载工具 。软件界面清爽 ，支持简体�
 
 电脑桌面整理 
 
+## Fido
+
+Rufus的作者开发的Windows官方镜像下载脚本，Fido本是打算配合Rufus使用的。
+
 ## Files UWP（微软商店）
 
 标签式文件管理器
@@ -793,12 +996,6 @@ Windows系统自带的防火墙操作过程是：控制面板 - 系统和安全 
 
 还有一个我认为比较实用的是，可以直接打开运行中程序所在位置
 
-## FolderMove
-
-完整文件夹移动工具（相当于Freemove，但是界面好看）
-
-FolderMove 是一款可以帮你将程序从一个路径移动到另一个路径或者硬盘上的文件夹移动工具 。它的操作方式非常简单  ，你只需要选择该程序的安装文件夹和新的目标路径 ，即可将该程序或游戏的安装文件夹快速且完整的移动到其他驱动器  。而且不会破坏安装程序也不需要重新安装 ，最大程度上为你的磁盘减负 。
-
 ## Focusky
 
 Focusky是一款免费简单易上手的 3D 动态 PPT、动画宣传片、微课等制作软件，多种输出格式，多种功能用途，界面简洁，易于操作，可以让你轻松的创作出炫酷而高大上的 PPT 演示，且动感十足，就像动画一样。
@@ -813,11 +1010,19 @@ Focusky是一款免费简单易上手的 3D 动态 PPT、动画宣传片、微�
 
 移动文件但是保持其功能，原理是创建符号链接。（同FreeMove功能相同）
 
+完整文件夹移动工具（相当于Freemove，但是界面好看）
+
+FolderMove 是一款可以帮你将程序从一个路径移动到另一个路径或者硬盘上的文件夹移动工具 。它的操作方式非常简单  ，你只需要选择该程序的安装文件夹和新的目标路径 ，即可将该程序或游戏的安装文件夹快速且完整的移动到其他驱动器  。而且不会破坏安装程序也不需要重新安装 ，最大程度上为你的磁盘减负 。
+
 ## Folder Painter
 
 文件夹颜色更改器
 
 Folder Painter 是一款适用于 Windows 设备 ，可以自定义修改文件夹颜色和图标样式的工具 。支持简体中文 ，操作非常简单  ，启动该程序激活需要的样式后 ，直接在文件夹上单击右键 ，在右键菜单中选择“文件夹样式”就可以直接替换 。Folder Painter  支持修改文件夹的颜色 、样式和图标 ，每一部分都包含 14 种样式 ，既能美化桌面 ，又可以帮助我们对不同文件进行分类整理 。
+
+## FonePaw Data Recovery
+
+数据恢复软件
 
 ## Foobar
 
@@ -838,10 +1043,6 @@ FreeFileSync 是一款跨平台支持 Windows 、macOS 、Linux 设备的开源�
 ## Geek Uninstaller（推荐）
 
 卸载工具
-
-## Genact
-
-程序员摸鱼工具，假装自己在工作
 
 ## Genie Timeline Home 10
 
@@ -926,6 +1127,8 @@ Groupy 是 Fences 开发商推出的一款功能强大的窗口管理神器 。�
 ## HandBrake
 
 视频格式转换&压缩，还支持多个视频的合并
+
+这是一款免费、开源的，可以将视频压缩转换为任意格式的视频处理软件，支持Windows、Mac以及Linux平台，压缩包大小为17MB左右，比那些动则几百MB的软件更加绿色便携；
 
 ## Hashcat
 
@@ -1059,9 +1262,13 @@ i笛云听写是一款完全免费的录音转文字平台 。目前主要有录
 
 将压缩包隐藏为图片
 
-## KeyCastOW
+## Joyoshare VidiKit
 
-KeyCastOW 绿色汉化版是一款键盘可视化软件，能够让你的屏幕显示键盘鼠标操作，适合做视频教程的时候使用，比如录制后期教程、游戏操作教程视频等，让别人可以看到你的键盘按键的一些操作细节。
+Joyoshare VidiKit 是一个功能强大的视频工具箱，集成了视频转换、视频编辑、录屏等工具。
+
+## KC Softwares SUMo Pro
+
+SUMo PRO 是一款检测 Windows 系统软件更新的工具，就可以检测软件所需的更新或者补丁，以及检测驱动程序的更新。SUMo PRO 可实现自动检测，自动更新。
 
 ## KDE Connect
 
@@ -1070,6 +1277,10 @@ KeyCastOW 绿色汉化版是一款键盘可视化软件，能够让你的屏幕�
 ## Kdenlive
 
 免费视频剪辑，可以代替PR，达芬奇（达芬奇适合特效、Vlog）
+
+## KeyCastOW
+
+KeyCastOW 绿色汉化版是一款键盘可视化软件，能够让你的屏幕显示键盘鼠标操作，适合做视频教程的时候使用，比如录制后期教程、游戏操作教程视频等，让别人可以看到你的键盘按键的一些操作细节。
 
 ## KinDown
 
@@ -1088,6 +1299,10 @@ PDF工具箱
 ## Krita
 
 画画和修图软件，可以代替PS，SAI，GIMP
+
+## Leawo PowerPoint to Video Pro
+
+Leawo PowerPoint to Video  Pro是一款功能强大的PPT转换为视频软件，支持各种PowerPoint文件格式输入，如.PPT，.PPS，.POT，.PPTX，.PPSX，.POTX，POTM等等，能多样化标准输出为高清视频格式，MP4，AVI，WMV，FLV，MOV，MKV，MPEG等180多种视频格式，且输出过程完整保留PowerPoint元素（动画、转场、音乐、解说以及影片剪辑等）。支持批量转换。此外，还可以添加背景音乐、水印以及logo等到输出的视频里。
 
 ## LeDimmer
 
@@ -1317,6 +1532,16 @@ MyDockFinder 是一款适用于 Windows 电脑的桌面美化工具 。它能轻
 
 内网穿透服务
 
+## Notable
+
+Markdown编辑器。Notable 支持 Linux、FreeBSD、MacOS、Windows7 等主流操作系统，实际上它与 VS Code 所使用的编辑器相同，因此内置了多光标，小地图和一流的语法高亮等功能。
+
+Notable 还支持暗黑主题，以后还将支持自定义主题模式，如果你想改变一个颜色或者隐藏一个按钮，你可以通过 Devtools 来实现。
+
+Zen 模式提供了简约的编辑和阅读体验，隐藏了所有不必要的内容，界面更加简洁。
+
+多笔记编辑可用于一次对多个笔记快速执行动作，如收藏，固定，删除，标记等。
+
 ## Notepad++
 
 文本编辑器
@@ -1429,13 +1654,17 @@ Excel、Word、Powerpoint、PDF、rar、zip密码破解工具，还可以移除w
 
 PasteEx 是一款操作简单 、功能实用且强大 、开源免费的剪切板粘贴增强工具 。它可以把我们的剪切板内容 ，快速粘贴为相应格式的文件 ，并保存于指定位置  。比如 ，我们要复制一段话并保存 ，无需打开记事本等工具 ，直接在任意位置粘贴 ，即可快速创建一个 txt 格式的文件 。此外 ，PasteEx 还提供了文件监听和快捷键粘贴等功能 ，让你无需反复新建文档 ，复制粘贴更加高效便捷 。
 
+## PC WorkBreak
+
+PC WorkBreak  提供适当的休息提醒以降低您的重复性劳损（RSI）风险。它根据您使用计算机的习惯为您提供以下多种休息提醒：微休息、舒展身体、眼保健操以及散步，此外还可查看休息完成情况及达标率。遵照良好的休息设定将帮助疲累的计算机用户减轻因久坐或频繁使用键盘、鼠标而造成的身体疼痛。
+
 ## PDF-XChange Editor
 
 精简PDF编辑工具
 
 ## PDFdo
 
-PDF工具箱
+PDF全能工具箱
 
 ## PDF Candy
 
@@ -1733,6 +1962,8 @@ Q-dir 是一款非常方便灵活的多窗口文件整理工具 。打开 Q-dir 
 
 RAR、ZIP压缩包密码破解
 
+RAR Password Recovery 为我们提供了一种快速便捷的方法来恢复.RAR 压缩包的密码。可以帮助我们恢复加密的 RAR 文件的所有可能的密码，同时又可以确保文件数据的安全性。
+
 ## Rcysoft GoPro Video Recovery Pro
 
 数据恢复，恢复视频文件
@@ -1772,6 +2003,10 @@ Windows系统上叫小狼毫，一款完全自定义的输入法
 ## RocketDock
 
 桌面美化，仿Mac的Dock
+
+免费小巧的仿 Dock 栏工具
+
+RocketDock 是一款完全免费的适用于 Windows 系统的仿苹果 Dock 任务栏工具。相比其他的几款 Windows  任务栏美化工具，RocketDock  不仅体积更加小巧，不占用过多的系统内存，而且实际操作还非常的简单便捷。软件支持使用拖拽的方式来自定义快捷栏内需要启动的程序或文件等，还内置了海量精美的图标包和主题包，你可以自定义修改 Dock 栏内的应用图标，以及整个 Dock 栏的主题样式，让你的电脑在美观的同时，也能更加高效便捷。
 
 ## Rolan
 
@@ -1881,9 +2116,17 @@ Sizer 是一款免费小巧的窗口调整工具 。软件大小仅有 300k ，�
 
 截图软件，质量高，功能全
 
+## Softcnkiller
+
+彻底删除流氓软件，流氓软件名单见[gitee](https://gitee.com/softcnkiller/data/graph/master) 
+
 ## SoSo音乐
 
 集合了QQ、网易云的音乐且免费
+
+## SoundWire
+
+手机当作音响
 
 ## Spacedesk
 
@@ -1973,6 +2216,10 @@ Sumatra  PDF是一款小巧便携的轻量级阅读器，它支持的格式非�
 
 Switch 是一款通过 Alt 搭配数字键来快速切换程序的工具 。安装好软件后 ，你可以通过默认快捷键 Alt+1 、Alt+2 、Alt+3 等按键组合来切换不同的自定义应用程序 。不使用时还会自动隐藏 ，让你切换软件更加快速 。
 
+## SyncBird Pro
+
+SyncBird Pro 跟 WinX MediaTrans 和 DearMob iPhone Manager 一样，是 iTunes  的替代工具，可以帮助我们管理 iPhone 的数据文件，可以在 iPhone 和 Windows 系统之间传输文件，iPhone  备份等。支持多种数据类型，音视频，照片，文件，联系人，短信，日历，备忘等。
+
 ## Syncthing
 
 免费跨平台文件同步神器
@@ -2000,6 +2247,12 @@ TagSpaces 是一款功能强大 、免费开源 、可以离线使用的个人�
 ## TeamViewer
 
 远程控制
+
+## TeoreX Inpaint
+
+Inpaint 是一款智能去除图片水印的工具，可以帮我们去除图片上面不需要的内容，比如水印、污渍、划痕、时间戳，人物，文字等。
+
+Inpaint 软件具有智能像素识别技术和全自动智能图像修复技术，轻松去除水印、时间戳以及一切不想留在照片上的内容。使用也非常简单，你只需要用红色的笔刷来标记水印或者是需要删除的部分，然后一键执行操作，就可以删除掉水印了。
 
 ## TeraCopy
 
@@ -2129,6 +2382,10 @@ Traffic Monitor 是一款适用于 Windows 电脑的网速监控悬浮窗软件 
 
 TreeSize 是一款非常强大且实用的电脑磁盘空间管理工具 。软件大小仅有 8M ，而且支持简体中文 ，操作非常简单 。你可以选择扫描磁盘  ，也可以选择其中的文件夹 ，而且扫描速度相对更快 ，展示的信息也更加丰富全面 。它不仅能帮你列出电脑上所有文件所占用空间的具体数值  ，还可以通过可视化图表的形式 ，帮你轻松查看各文件的大小 、分配的空间 、文件数量等信息 。点击即可快速展开文件目录  ，方便用户进行移动或删除操作 ，保证电脑流畅运行 。
 
+## TV盒子助手
+
+可以直接安装应用到电视，而不用使用U盘安装。还有一些其他功能如ROOT、垃圾清理等
+
 ## Twinkle Tray: Brightness Slider（微软商店）
 
 Twinkle Tray lets you easily manage the brightness levels of multiple  monitors. Even though Windows 10 is capable of adjusting the backlight  on most monitors, it typically doesn't support external monitors.  Windows also lacks any ability to manage the brightness of multiple  monitors. This app inserts a new icon into your system tray, where you  can click to have instant access to the brightness levels of all  compatible monitors.
@@ -2222,6 +2479,14 @@ UniversalViewer 是一款非常强大的适用于 Windows 系统的万能文件�
 ## VeraCrypt
 
 可以新建一个分区来隐藏私密文件**（一定要记住秘钥）**，可以设置多个密码，每次打开的就会是不同的
+
+## Vertexshare Photo Effects
+
+Vertexshare Photo Effects可以为照片创建酷炫的照片效果和滤镜，软件预置了丰富的滤镜效果，只需简单的点击就可以为照片创建丰富的照片效果。
+
+## Vertexshare Photo HDR
+
+Vertexshare Photo HDR 是一款 HDR 照片编辑工具，可以用来为照片创建不同的 HDR 效果，编辑出创意十足的照片。
 
 ## VeryCapture
 
@@ -2363,6 +2628,10 @@ WinExt是一款非常强大实用的 Windows 工具包 。软件主要有重复�
 >
 >   您可以设置同步模式为“一旦变更”、“固定频率（分）”及指定时间。
 
+## WinExt Pro
+
+WinExt 是一款功能强大的免费的 Windows 实用工具包，功能包括但不限于重复文件查找，查找大文件，查看最近访问资源的信息，对多个资源进行批量操作，同步文件等等。
+
 ## Winget
 
 Windows的包管理工具
@@ -2391,6 +2660,19 @@ windows激活、pe盘制作、硬件检测等工具合集（只有资源地址�
 
 Windows窗口触发角工具
 
+在屏幕四角添加快捷功能
+
+WinXcorners 是一款非常高效的电脑屏幕快捷操作辅助工具，目前仅适用于 Windows  系统。软件开源小巧，而且完全免费，虽然暂不支持中文，不过软件操作起来还是非常简单的。它能帮你在电脑屏幕的四角添加快捷功能，当鼠标移动到屏幕四角后，即可触发并执行相应的命令或动作，还可设置延迟触发的时间，避免误触。此外，WinXcorners  不仅内置了显示任务视图、显示桌面、开启屏保、打开通知中心、隐藏窗口等多种快捷方式，还支持自定义添加快速打开指定应用程序或文档等快捷方式，让你的电脑更加高效易用。
+
+## Winxmove
+
+快捷改变文件夹的大小（但是貌似和Clover不适配）
+
+双击打开软件，你可以在任务栏找到它的小图标。
+
+具体的操作方法是按住电脑键盘“Alt”，然后右键拉大拉小，就可以任意调节了。
+如果你已经按住“Alt”然后右键，再连续按两次Alt，放开Alt，不需要再按住Alt键就可以直接任意调整大小了。
+
 ## WinZip
 
 适用于Windows系统的压缩解压缩工具，可以很好地集成到资源管理器。还可以压缩预览
@@ -2402,6 +2684,12 @@ Windows窗口触发角工具
 ## WiseCare
 
 系统清理工具
+
+Wise Care 365是一款没有广告、没有弹窗、一点儿都不流氓的电脑优化清理软件。
+
+Wise Care 365集成了垃圾清理、系统优化、数据恢复、启动管理、进程监视、内存加速、游戏加速、注册表清理、系统瘦身、磁盘管理、磁盘擦除、隐私擦除、大文件管理等等多种功能，能够满足用户日常生活工作所需的基本要求。
+
+## Wise Care 365 Pro
 
 Wise Care 365是一款没有广告、没有弹窗、一点儿都不流氓的电脑优化清理软件。
 
@@ -2428,6 +2716,14 @@ Wise Folder Hider不仅可以隐藏文件夹，还可以隐藏单个的文件，
 （同上）隐藏文件和文件夹
 
 ## Wise Registry Cleaner
+
+Wise Registry Cleaner是一款免费的注册表清理和优化软件，能够清理无效注册表残留垃圾文件，整理注册表，提升系统性能。
+
+Wise Registry Cleaner提供了三种选择：快速扫描，深度扫描，自定义扫描。
+
+通过自定义扫描可以制定具体的扫描内容，缩短扫描时间；通过排外功能，添加排外关键词避免扫描某些特定的项目。
+
+**Wise Registry Cleaner**
 
 Wise Registry Cleaner是一款免费的注册表清理和优化软件，能够清理无效注册表残留垃圾文件，整理注册表，提升系统性能。
 
@@ -2665,6 +2961,10 @@ Mac上最强的右键菜单工具
 
 虫洞是一款电脑与手机的捷径神器 ，无需 Root 和越狱 ，就可以轻松实现在 PC 、Mac 上 ，对安卓和 IOS 设备进行操作 。画质非常流畅 ，可以手动调节  ，操作也几乎没有延迟 。此外 ，在安卓设备上还支持文件传输 、共享剪贴板和游戏键盘映射等多种实用工具 ，无需在多个设备上来回切换  ，在电脑上就可以同时控制多种设备 ，从而大大提高工作效率 。
 
+## 春哥方言语音生成器
+
+文字生成方言或者普通话
+
 ## 磁力资源搜索助手
 
 搜索磁力资源
@@ -2898,6 +3198,10 @@ fq
 ## 雷电模拟器
 
 手机模拟器
+
+## 雷神模拟器
+
+雷神模拟器是雷电模拟器家开发的一款新模拟器，和雷电模拟器侧重的不同，雷神模拟器没有任何广告，非常纯净，且雷电模拟器将相关的群控功能搬到了雷神模拟器上面，软件启动更迅速，占用内存更小，不知道后面会不会出现广告，暂时可以先用着。
 
 ## 雷鸟下载
 
@@ -3231,6 +3535,10 @@ PDF编辑器，还带有OCR识别，可以图片转文字；同时支持Word
 
 万彩办公大师是一款非常实用的适用于 Windows 电脑的办公工具合集 。软件体积小巧 ，仅有 12M ，却包含了 PDF 工具 、格式转换 、OCR 识别工具 、图片处理等  60 多个无任何广告及插件的办公小工具 。而且所有工具无需安装 ，没有广告 ，更不需要付费 ，直接加载即可使用 。节省安装各种工具的时间  ，让日常工作变得更加高效 
 
+## 万兴全能格式转换器
+
+也叫万兴优转，支持多种格式转换
+
 ## 万兴神剪手
 
 万兴神剪手，英文名Filmora，国产的视频后期制作神器，而且这次分享的还含了1.27GB资源，提供了海量模板和素材供用户直接套用，包括上千种好莱坞大片特效、300+种字幕、400+种叠加特效等素材都能够随时被用户调用，十分便利而贴心。
@@ -3242,10 +3550,6 @@ PDF编辑器，还带有OCR识别，可以图片转文字；同时支持Word
 ## 万里影视
 
 观影
-
-## 万兴全能格式转换器
-
-也叫万兴优转，支持多种格式转换
 
 ## 网易有道词典
 
@@ -3272,6 +3576,10 @@ PDF编辑器，还带有OCR识别，可以图片转文字；同时支持Word
 ## 微信表情包转换工具
 
 把图片转换为表情包
+
+## 微信多开
+
+电脑微信多开，一个个人开发的小程序，不知道叫什么名字就叫这个了
 
 ## 文本文件合并器
 
@@ -3336,6 +3644,10 @@ TXT文档合并工具
 ## 小恐龙公文排版助手 
 
 Word插件，公文排版
+
+## 小说下载器
+
+吾爱大佬开发的小说下载器，相比scrapy小说下载器，书源不同而且可以自己选择最新的（最多50章）下载
 
 ## 小丸工具箱
 
@@ -3413,6 +3725,12 @@ Word插件，公文排版
 实用的图像处理软件
 
 洋芋田图像工具箱是一款非常出色的开源且完全免费的图像处理工具合集 。支持 Windows 、Mac 和 Linux 。目前已提供图片加水印 、多图拼接长图 、富文本制图 、图片尺寸调整 、图片裁剪 、照片  EXIF 读取 、字体管理 、色彩提取等十多种实用工具 。非常适合摄影师 、设计师和新媒体工作者使用 。
+
+## 影刀
+
+高效办公机器人流程自动化平台
+
+影刀是一款极简易用的 RAT 机器人流程自动化工具。软件界面布局清晰，拥有丰富详细的使用教学，没有代码基础也能快速上手。它可以帮你实现所有桌面应用程序的自动化，包括 ERP、浏览器、CRM、微信、钉钉或你日常使用的任何其他应用程序，适合近六百种自动化场景使用。此外，影刀还支持任何网页、手机  App、鼠标键盘、Excel、数据库和 SQL  的自动化，可以像人一样进行自动化操作，节省了大量因重复性工作所浪费的时间，大大提高了日常工作的效率。
 
 ## 硬盘哨兵
 
