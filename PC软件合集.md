@@ -827,6 +827,10 @@ DSF MFT Viewer（DSF/MFT文件查看工具）是一款功能强大的DSF/MFT文�
 
 删除重复文件
 
+## Duplicate File Finder Plus
+
+文件查重工具，从二进制层面比较文件是否相同，能够100%查找重复文件
+
 ## **Duplicate Photo Finder Plus** 
 
 查找和删除重复图片
