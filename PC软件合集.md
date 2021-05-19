@@ -968,6 +968,10 @@ FDM 是一款非常强大的下载工具 。软件界面清爽 ，支持简体�
 
 Rufus的作者开发的Windows官方镜像下载脚本，Fido本是打算配合Rufus使用的。
 
+## FileLight（微软商店）
+
+旭日图磁盘分析软件，同Diskitude
+
 ## Files UWP（微软商店）
 
 标签式文件管理器
@@ -1266,6 +1270,12 @@ ImageGlass 是一款适用于 Windows 电脑使用的免费且开源的多功能
 
 简单的P图工具，可以P掉一些不想要的地方
 
+## Intel XTU
+
+Intel Extreme Tuning Utility 简称 XTU，是 Intel 官方发布的工具，可以调整包括功率阈值和核心电压在内的一系列核心参数。
+
+**使用有风险，要详细按照教程，否则可能会对CPU造成不可逆的损害**
+
 ## IObit Screen Recorder
 
 一款目前还免费的屏幕录制工具，支持中文
@@ -1416,7 +1426,7 @@ LockHunter 是一款非常实用的电脑文件解锁工具 。它的大小不�
 
 免费开源的视频剪辑工具
 
-LosslessCut 是一款功能强大且开源的视频剪辑工具 。相比其他专业的视频处理软件 ，LosslessCut 体积更加小巧 ，而且完全免费  。它不仅支持多种格式的音视频文件 ，还可以实现音视频文件无损剪辑 、提取 、合成 、导出等丰富的操作 。它拥有 Windows 和 Mac  两个版本 ，而且支持简体中文等多种语言 ，基本可以满足日常音视频文件处理需求 。
+LosslessCut 是一款功能强大且开源的视频剪辑工具 。相比其他专业的视频处理软件 ，LosslessCut 体积更加小巧 ，而且完全免费  。它不仅支持多种格式的音视频文件 ，还可以实现音视频文件**无损**剪辑 、提取 、合成 、导出等丰富的操作 。它拥有 Windows 和 Mac  两个版本 ，而且支持简体中文等多种语言 ，基本可以满足日常音视频文件处理需求 。
 
 ## Lively
 
@@ -1685,6 +1695,16 @@ Pakku 是一款非常实用的适用于 Chrome、Firefox、Edge 及其他 Chromi
 ## PandaOCR
 
 免费且开源的OCR软件
+
+## Parallels Desktop 16
+
+在 Mac 轻松运行 Windows
+
+Parallels Desktop 是一款非常强大的可以让你在 Mac 上轻松运行 Windows  系统的虚拟机工具。软件不仅安装方便，而且在功能使用上也很方便高效。用户无需重新启动 Mac，就能轻松实现在不同系统中自由切换，而且支持在  Dock 栏快速启动 Windows  内程序、共享文件及文件夹、复制粘贴图片文本等功能。此外，在选择生产力、游戏、设计、软件测试或开发后，Parallels Desktop  还将自动优化 VM 设置和性能，利用模拟系统玩大型游戏也非常流畅。适用于多种工作或娱乐场景，让你的 Mac 更加高效强大。
+
+## Passper For XXX
+
+移除某种文件格式的密码，或者恢复密码
 
 ## Passper For PDF
 
@@ -2319,6 +2339,10 @@ Inpaint 软件具有智能像素识别技术和全自动智能图像修复技术
 ## TeraCopy
 
 Copy your files faster and more securely，更快更好的复制文件，适合复制碎片化的小文件。
+
+## Termius（微软商店）
+
+SSH客户端
 
 ## **TextTool** 
 
