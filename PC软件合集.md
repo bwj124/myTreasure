@@ -1236,6 +1236,8 @@ HEU KMS Activator，简洁高效的全能激活工具，适用所有Windows, Off
 
 录制Gif
 
+Honeycam 是一款高质量的 GIF/WebP动图制作和编辑器。 制作您专属的游戏、视频锦集、电脑教程的动画文件。
+
 ## HWiNFO
 
 检测电脑硬件
