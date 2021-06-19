@@ -3204,6 +3204,31 @@ An easy to install Apache distribution containing MySQL, PHP, and Perl
 
 编辑图片
 
+## Xonsh
+
+还在为Shell的循环语句太难写而发愁？这个工具可以让你像写python一样简单地写Shell脚本，也可以像Shell一样写Python。
+
+同样，也可以直接写python或者shell
+
+> 如何安装？
+>
+> `python -m pip install xonsh` 
+
+```python
+# Shell in Python
+
+for filename in `.*`:
+    print(filename)
+    du -sh @(filename)
+   
+
+# Python in Shell
+
+echo @(i for i in range(42))
+```
+
+
+
 ## Xtranslator
 
 和知云出自一家公司，同样是翻译，但这个可以翻译其他格式的文档，优点像CopyTranslator
@@ -3685,6 +3710,12 @@ fq
 真正的云剪贴板工具
 
 快贴是一款适用于 iOS 、Android 、Mac 、Windows 设备上的云剪切版工具 。和之前推荐过的 Ditto 和 CC 助手不同  ，快贴除了可以记录本地的复制数据外 ，还可以在其他设备上同步显示并粘贴使用 ，让你无需切换设备 ，一次复制 ，多端同步 。此外  ，快贴还采用了端对端加密的方式进行传输 ，让你在保障数据安全的前提下 ，提高工作效率 
+
+## 蓝奏云挂载为本地磁盘
+
+这个程序没有名字，所以标题就是它的核心功能。作用就是方便批量下载，不过配置比较繁琐。
+
+通过这个工具，可以把蓝奏云网盘挂载为你的电脑虚拟磁盘。里面显示的是蓝奏云链接里面所有文件，可以通过拖拽到其他磁盘等方式直接批量下载。
 
 ## 快下载
 
