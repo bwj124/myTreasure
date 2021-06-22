@@ -1,4 +1,4 @@
-# PC软件合集
+PC软件合集
 
 ## 16款良心工具
 
@@ -171,6 +171,16 @@
 
 电脑跑分（显卡）
 
+## 3StepIcon
+
+3StepIcon 是一款适用于移动和桌面的有用的图标和图形生成器软件。这款出色的软件使用颜色渐变、文本和图像模板来创建自定义图标，以帮助您为应用程序创建漂亮的图标和图形。
+
+## 3StepPDF
+
+3StepPDF是功能强大的 PDF 处理器，可帮助您创建，合并，拆分，加水印和裁剪 PDF 文档。从扫描的文档中轻松提取不同语言的文本，并将其另存为新的 PDF 文档。
+
+3StepPDF 是一款针对 Windows 7、8 和 10 进行了优化的用户友好软件，只需三个简单步骤即可帮助您微调 PDF  文档。例如，如果您想用公司的徽标为一组 PDF 文档加水印 3StepPDF  将在几秒钟内完成这项工作。只需选择要加水印的文件，然后选择所需的徽标，其余的将由 3StepPDF 完成
+
 ## 4k Video Downloader
 
 可以下载油管视频
@@ -188,6 +198,10 @@
 让你的 Windows 任务栏更好用
 
 7+ Taskbar Tweaker 是一款小巧且强大的 Windows 电脑任务栏增强工具，目前支持 Win7、Win8、Win8.1、Win10  等系统使用。软件操作与配置都非常简单，它不仅能帮你轻松隐藏开始菜单、显示秒钟时间、将所有窗口按照自定义规则分组与合并，还支持通过配置鼠标按键与滚轮操作，来实现快速切换窗口、滚轮修改音量、双击隐藏任务栏、中键单击启动任务管理器等数十种快捷指令操作。此外，软件完全免费且无广告弹窗，支持开机自启，让你的任务栏在简洁美观的同时，能更加高效实用。
+
+## Acethinker Screen Grabber Pro
+
+Acethinker Screen Grabber Pro 旨在以多种模式和高质量创建快照和截屏视频。通过易于使用的界面，您可以快速录制屏幕以及系统声音、麦克风和光标效果。此外，您可以在屏幕上实时编辑，访问包括高亮、形状、文本、线条等在内的选项。
 
 ## ADB Tool
 
@@ -247,9 +261,17 @@ AIDA64  (原EVEREST)是一款综合性的系统软硬件检测工具，最权威
 
 AirDroid 是一款非常强大的手机远程协助与文件传输管理神器 。配合电脑客户端使用 ，无需数据线 ，即可轻松实现电脑对手机的在线文件管理 、远程控制手机 、手机投屏 、远程相机等操作 。也可进行设备间无损传输各类文件 ，大大提升了日常工作效率 。
 
+## Aiseesoft Data Recovery
+
+Aiseesoft Data  Recovery可帮助您恢复由于意外删除，格式化分区，计算机崩溃和硬盘驱动器问题而丢失的数据。几乎所有常见的数据类型都将被完全还原，例如照片，文档，视频，音频，电子邮件和其他（ZIP，RAR，SIT和其他有用的数据）。凭借其快速的扫描速度和可靠的数据恢复，Aiseesoft Data Recovery可以从存储卡，个人计算机，USB闪存，便携式摄像机，可移动驱动器中恢复数据。
+
 ## Aiseesoft Screen Recorder
 
 Aiseesoft Screen Recorder是一款非常优秀且简单易用的视频/音频录制软件，能够捕捉你的计算机上的任何视频或者音频并存储为高品质文件
+
+## Aiseesoft Total Video Converter
+
+Aiseesoft Total Video Converter 是一个功能强大的视频转换和编辑工具包，不仅有助于转换超过1000个格式的视频和音频，以便在设备上播放，但还允许用户修剪，合并，调整，裁剪，旋转，翻转视频，添加水印，添加文本，效果等。
 
 ## AllDup
 
@@ -277,6 +299,10 @@ Alldup 是一款可以快速搜索并删除计算机上重复文件的电脑软�
 
 动画黑板，可以用于知识类视频的制作
 
+## Ant Download Manager PRO
+
+Ant Download Manager PRO 是一款专业的下载工具，可以下载网站视频，音频，支持多线程下载，可以大幅提高下载速度。
+
 ## Anvi Folder Locker 
 
 隐藏文件，文件上锁
@@ -287,11 +313,35 @@ Alldup 是一款可以快速搜索并删除计算机上重复文件的电脑软�
 
 AnyDesk 是一款稳定流畅且完全免费的远程桌面连接控制工具 。它主要支持声音传输 、调整画质设置 、屏幕截图 ，同步剪贴板等功能 。无论是文本还是文件夹 ，都能直接复制到另一台电脑上 。此外 ，AnyDesk 还可以实现开机自启 、在无人干预的情况下接受控制等操作 。而且全面支持 Windows 、macOS 、Android 、iOS 、Linux 等多种设备 ，基本满足日常远程工作需要 。
 
+## AnyMP4 DVD Creator
+
+AnyMP4 DVD Creator 是一个专业的应用程序，它为用户提供了从他们最喜欢的视频剪辑中创建 DVD  的最简单和最快的方法。此外，它还可以帮助您添加/编辑音轨和字幕。使用 AnyMP4 DVD Creator，您可以获得完美的输出 DVD  质量，以便在家里的移动设备和 DVD 刻录机上播放。
+
+## AnyMP4 DVD Ripper
+
+AnyMP4 DVD Ripper 是一款出色的软件，能够将任何 DVD 光盘/文件夹/ISO 映像文件翻录和转换为 500 多种数字视频和音频格式，如  MP4、M4V、MKV、MOV、AVI、WMV、FLV、VOB、MP3、等等，速度提高了 30  倍。此外，您还可以使用内置的字幕编辑器编辑字幕，包括位置、不透明度、大小、字体样式、颜色等。
+
+## AnyMP4 Screen Recorder
+
+AnyMP4 Screen Recorder 可帮助您录制屏幕移动和操作。它是一个功能强大的视频录制软件，可以在计算机屏幕上记录所有视频文件和声音。无论您是想记录流视频文件还是蓝光电影作为视频文件，录制Skype呼叫或网络研讨会，这个软件可以帮助您。录制后，它将视频文件保存为WMV或MP4格式。
+
 ## AnyTXT Searcher
 
 全文搜索工具
 
 AnyTXT Searcher 是一款适用于 Windows 平台的文件搜索神器 。相比 Everything 和 Listary  ，这款软件更加小巧便捷 ，而且支持超级强大的文本内容搜索 。当你不知道文件名 ，只是模糊记得文件内的部分文本 ，都可以使用 AnyTXT  Searcher 来快速查找到具体的文件名和位置 ，并支持分类搜索 txt 、word 、pdf 、ppt 等多种格式文件  ，让你查找文件快人一步 。
+
+## AOMEI Backupper Professional
+
+寻找全面和专业的数据备份软件？ AOMEI Backupper Professional  是最佳选择。它使用户能够备份和恢复系统、磁盘、单个文件和分区。更重要的是，它支持文件同步和系统克隆，并提供计划备份、合并映像、动态卷备份、UEFI 启动和 GPT 磁盘备份。
+
+## AOMEI Partition Assistant Professional
+
+AOMEI Partition Assistant Professional 带来了丰富的工具和人性化的界面，旨在让您的PC磁盘分区管理比以往更轻松、更安全。
+
+## Apeaksoft Video Editor
+
+Apeaksoft Video Editor 是专业的视频编辑软件，可以在您的计算机上旋转、翻转、裁剪、加入视频、添加水印、添加其他视频效果以及转换视频/音频文件。您可以通过多种编辑功能自定义您的视频，并在几分钟内获得质量更高的视频。
 
 ## ApowerRec
 
@@ -441,6 +491,10 @@ Billfish 是一款图片素材收藏及管理工具 。它不仅可以帮你高�
 
 比特梵德，杀毒软件
 
+## Bitdefender Total Security 2021
+
+Bitdefender. 世界排名第一的反病毒软件。连续10年在国际权威测评机构AV-Test和AV-Comparatives的测试中排名第一，为你提供世界顶级的安全保护。
+
 ## BitDock
 
 桌面快捷工具栏
@@ -480,6 +534,10 @@ Bitwarden 是一款非常强大的跨平台密码管理工具 。软件界面简
 最好用的电脑安卓模拟器
 
 BlueStacks 5 是一款非常强大的适用于 Windows 电脑的安卓模拟器 。它可以让你在电脑上轻松模拟安卓手机并运行安卓应用程序 。软件不仅提供了  Huawei 、OnePlus 、Samsung 、LG 、Pixel 等多种机型 ，还拥有鼠标锁定 、脚本录制 、Eco 模式等多种高级功能  。相比其他虚拟机工具 ，BlueStacks 5 采用了将 Android 底层接口编译成 Windows 系统的 API 的方式  ，让软件启动速度更快 ，兼容性更好 ，最大程度降低软件对电脑硬件的要求 。
+
+## Bob
+
+Bob是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
 ## BoilsoftVideoSplitter
 
@@ -658,6 +716,10 @@ ContextMenuManager 是一款免费开源的 Windows  电脑右键菜单管理工
 
 桌面整理软件，只有5M，但功能很多，可以盒子套盒子（套娃）
 
+## Coolmuster iPhone Data Recovery
+
+Coolmuster iPhone Data Recovery 是一款功能强大的软件，可让您为 iPhone/iPad/iPod 恢复已删除或丢失的数据，并从 iTunes 备份中恢复数据。有了它，您可以轻松恢复联系人、消息、消息附件。
+
 ## Coolutils PDF Converter
 
 PDF全能转换器
@@ -705,6 +767,10 @@ Windows模拟Linux环境
 
 360中的功能，有提取的单文件版，可以搬运C盘软件、资料等。
 
+## Dashlane Premium
+
+Dashlane Premium 是适用于 Windows、Mac、Android 和 iOS  计算机、智能手机和平板电脑的最佳密码管理器软件之一。它存储您的用户名、密码和其他数据，包括您的信用卡和其他支付数据……使用  Dashlane，您将永远不会忘记另一个密码。
+
 ## DataGrip
 
 jetbrain公司的数据库软件
@@ -714,6 +780,10 @@ jetbrain公司的数据库软件
 DearMob iPhone Manager 帮助用户离线备份 iPhone 或者 iPad 数据文件到个人电脑或者到 Mac 上面，有选择地管理或者传输任何 iOS 文件，告别了只能使用 iTunes 本地备份或者使用 iCloud  云端备份的情况，同时创新性地使用了加密传输数据文件的方式，在简单快速地传输基础上又保证了数据传输的安全性。
 
 DearMob iPhone Manager 支持图片、音视频等媒体文件的快速传输，也支持一键完全备份或恢复通讯录、短信及 iMessage、电子书、播客、日历、备忘录、手机已安装的 APP 等。
+
+
+
+DearMob iPhone Manager 是世界上第一个使用加密方法传输 iPhone 数据的 iOS 管理器。它允许您完全管理您的 iOS  数据。内置传输 iPhone 照片、视频和通讯录的军事加密等级以防止隐私泄露，按时间顺序备份和恢复 iOS 数据，以及有选择地将内容从计算机 2 向传输到 iPhone 的选项，无论是照片、视频、音乐、联系人、消息、iTunes  U、播客、应用程序、日历、语音、文件等。您的隐私不能免于泄漏，使用 DearMob iPhone Manager 保护它以避免威胁。
 
 ## Deepl翻译
 
@@ -855,6 +925,10 @@ Ditto 是一款免费开源的剪贴板增强工具 。和系统自带的剪切�
 
 下载B站视频
 
+## DoYourData Super Eraser
+
+使用DoYourData Super Eraser ，以永久擦除文件/文件夹、擦除硬盘数据、擦除未使用的磁盘空间或免费擦除存储介质上的数据。该软件因其易于使用和强大的功能而受到全球数千名客户的强烈推荐。
+
 ## DoYourData Uninstaller
 
 DoYourData Uninstaller 是针对 Windows 系统的软件彻底卸载的工具，完全卸载软件并清理软件的各种残留文件及文件夹、注册表项等。
@@ -893,6 +967,10 @@ DropIt 是一款非常实用的电脑文件分类整理软件 。启动软件后
 
 DSF MFT Viewer（DSF/MFT文件查看工具）是一款功能强大的DSF/MFT文件查看器。
 
+## Dupinout Duplicate Finder
+
+Dupinout Duplicate Finder 是适用于 Windows 的最佳重复查找软件，可帮助您搜索更多重复的文档、音乐、视频。此外，您可以轻松找到并修复重复项。
+
 ## Duplicate Cleaner
 
 删除重复文件
@@ -901,9 +979,15 @@ DSF MFT Viewer（DSF/MFT文件查看工具）是一款功能强大的DSF/MFT文�
 
 文件查重工具，从二进制层面比较文件是否相同，能够100%查找重复文件
 
+Duplicate File Finder Plus 是一款易于使用的 Windows  上的重复文件查找软件，您只需选择资源（驱动器、文件夹、文件）、大小、类型，然后单击“立即查找”按钮。您将立即看到结果（重复文件列表）。它通过智能选择功能自动检查不需要的文件，将结果按大小降序排列，并用不同的颜色标记相邻的重复文件组，以便您方便地操作重复文件。
+
 ## **Duplicate Photo Finder Plus** 
 
 查找和删除重复图片
+
+## DVDFab Video Enhancer AI
+
+DVDFab Video Enhancer AI 是视频质量增强和分辨率放大的最佳工具。它不仅可以帮助您增强质量差和分辨率低的视频和电影，还可以在短时间内将分辨率放大到 4K。此外，它还改善了大屏幕观看体验。
 
 ## Eagle
 
@@ -1241,6 +1325,8 @@ Smart Game Booster 是一个用于优化你电脑游戏性能的工具，它会�
 
 不定时自动备份工具
 
+Genie Timeline Home 10 是一款高级备份软件，旨在满足日常家庭用户的数据保护需求。用户只需通过 3 个简单、直接的步骤进行设置，即可享受终身保护。
+
 ## GestureSign（微软商店）
 
 Windows 手势控制软件
@@ -1459,7 +1545,11 @@ ImageGlass 是一款适用于 Windows 电脑使用的免费且开源的多功能
 
 Intel Extreme Tuning Utility 简称 XTU，是 Intel 官方发布的工具，可以调整包括功率阈值和核心电压在内的一系列核心参数。
 
-**使用有风险，要详细按照教程，否则可能会对CPU造成不可逆的损害**
+**使用有风险，要详细按照教程，否则可能会对CPU造成不可逆的损害** 
+
+## IObit Malware Fighter
+
+IObit Malware Fighter 是一款功能强大的防病毒软件，可帮助用户消灭病毒、恶意软件、木马、rootkit  和其他间谍软件。此外，它支持浏览器安全性，保证您每天上网工作和娱乐。它将保护您远离钓鱼网站，防止您的主页被修改以进行任何恶意使用，让您远离大量烦人的广告，并自动清除那些跟踪 cookie。
 
 ## IObit Screen Recorder
 
@@ -1726,6 +1816,10 @@ MFiles 是一款简单易用的文件传送和文件管理工具 。支持安卓
 
 国外录屏软件，可以录制麦克风
 
+## MobiKin Backup Manager for Android
+
+MobiKin Backup Manager for Android 是最好的 Android 备份和恢复软件之一，具有最人性化的界面。该软件可以帮助您轻松备份完整或选定的 Android  数据以备将来使用。支持备份安卓通讯录、消息、通话记录、照片、视频、音频、文档、应用等，共8+种文件类型。更重要的是，新备份文件不会覆盖旧文件。
+
 ## ModernFlyouts（微软商店）
 
 Windows 音量调节栏美化
@@ -1828,13 +1922,19 @@ Zen 模式提供了简约的编辑和阅读体验，隐藏了所有不必要的�
 
 文本编辑器
 
-## Notepads
+## Notepads（微软商店）
 
-一款体积小而且界面美观的文本编辑器
+Win 原生文本编辑器的高颜值代替
+
+Notepads 是一款轻量级的文本编辑器，拥有着相当不错的开启速度和极简式的高颜值。虽然 Windows 自带的 notepad  更加「轻量」，但从功能上来说就相当鸡肋，而 Notepads 作为一款开源免费的文本编辑器，称得上是不错的替代品之一。它使用 Fluent  设计，支持多标签，也可定制 UI。同时，它有着 Markdown  文本的预览支持，且自带文件对比器可以用于预览变动。此外，新建的文本会话也支持自动保存与恢复。Notepads 可以直接在 Microsoft  Store 进行下载。
 
 ## Notion（推荐）
 
 好用的笔记工具
+
+## NovaPDF Lite
+
+NovaPDF Lite 是一款功能强大的软件，可帮助您从几乎任何 Windows 文档创建高质量的 PDF，包括将 Word、Excel、PowerPoint、AutoCAD、电子邮件和纯文本文件转换为 PDF，而不会降低质量或文档格式。
 
 ## NSFW Filter
 
@@ -1856,7 +1956,15 @@ NSFW 的全称为「Not Safe For Work」，它通常被用于标记那些带有�
 
 完全免费、没有广告，可以直观清晰的查到CPU、GPU、内存等各个硬件的参数信息，以及它们实时的运行状态
 
-同时它还具备悬浮窗功能：界面简洁美观，信息简明扼要。
+同时它还具备悬浮窗功能：界面简洁美观，信息简明扼要
+
+## O＆O Defrag 23 Professional
+
+O＆O Defrag 23 Professional 帮助尽可能加快计算机，并延长硬盘驱动器的生命周期并提供有效的数据保护。 O＆O  Defrag提高了系统性能，并检测了带有内置O＆O DiskStat工具的垃圾文件。该产品与所有现代版本的Windows兼容。。
+
+## O＆O FileBackup Pro
+
+O＆O FileBackup  Pro是一款出色的Windows文件备份软件，提供了一些方便的功能。首先，它是市场上的少数工具之一，可以自动检测重要文件并建议它们进行备份。其次，此备份工具可以为您自动检测新的或更改文件，并提出它们进行备份。最后，您可以使用O＆O FileBackup恢复数据。只需使用O＆O FileBackup中的内置还原功能来选择要还原并将其还原到目标目录的文件。
 
 ## OBS
 
@@ -2108,6 +2216,10 @@ PicPick 是一款全能的屏幕捕获和图像编辑器 。可以截取全屏 �
 
 国外一款十分强大的图片AI智能上色软件，它会通过算法对黑白照片进行上色还原。
 
+## Pixel Studio
+
+Pixel Studio 是一款像素化图形设计软件，可以帮助你设计像素化logo，图标等。软件支持图层创建管理，还可以创建 GIF 动画。
+
 ## Pinbox
 
 跨平台灵感收藏工具
@@ -2304,6 +2416,10 @@ RAR Password Recovery 为我们提供了一种快速便捷的方法来恢复.RAR
 
 Wondershare的数据恢复软件
 
+## RecoverXData Pro
+
+RecoverXData Pro  支持恢复因意外删除、格式化、分区丢失、系统问题、应用程序崩溃、病毒攻击功率问题等丢失的数据，它将从内部和外部硬盘驱动器、回收站、存储卡、USB  闪存中扫描丢失的文件。它还提供了一个高级扫描选项，以确保 100% 的已删除文件将被扫描。
+
 ## ReNamer
 
 小巧强大的批量重命名工具
@@ -2314,11 +2430,17 @@ ReNamer 是一款体积小巧且功能强大的专业批量文件重命名工具
 
 聊天软件（微信、QQ）消息防撤回补丁
 
-## Revo Uninstalle
+## Revo Uninstaller
 
 电脑全能卸载神器
 
 Revo Uninstaller 是一款操作简单 ，功能丰富强大的电脑软件卸载工具 ，目前仅支持 Windows 设备  。它不仅可以帮你快速卸载已安装程序和组件 ，还支持扫描并清除软件注册时带来的注册表信息 ，不会在系统中留下软件的任何残留 。此外  ，软件还拥有批量卸载 、浏览器拓展管理 、浏览器清理器 、Office 清理器 、安装监控等多种实用工具 ，让你不再为无法彻底删除流氓软件而苦恼 。
+
+
+
+Revo Uninstaller 是一款专业的卸载清除工具，可以显示目前用户已经安装的所有程序及组件，几乎你电脑上所有的软件它都可以卸载，帮助你更好的管理电脑，还你一个干净的桌面。
+
+Revo Uninstaller 使用先进快速的算法，彻底分析和扫描被卸载程序在系统和注册表中的所有文件和键值，将程序彻底完全地移除，不会在系统中留下软件的任何残留。
 
 ## Rime
 
@@ -2453,6 +2575,12 @@ SmartWindows 是一款非常实用且强大的适用于 Windows 系统的电脑�
 ## SMMVSplitter
 
 无损分割视频，无需重新编码
+
+## Snagit
+
+功能超齐全的截图工具
+
+许多截图工具，比如 Snipasete、VeryCapture、ShareX 等等这些，它们都相当强大，而 Snagit 也同样不容小觑。首先它和  VeryCapture 一样，将截屏与录屏整合且提供了快捷键操作，支持全屏、区域、窗口、滚动等多种截图方式，也能录制视频与 Gif  动图。而相较于其他截图软件，它的特色则是提供了更丰富的图片处理选项：支持对图片添加基本的效果，例如边框、阴影、水印等；提供更加多样的标注工具，比如步骤序号、局部放大、圆角矩形框等。除此之外，它还提供了「截图库」可以保存多个最近截图。
 
 ## Snatch（微软商店）
 
@@ -2687,6 +2815,10 @@ Python IDE，适合新手，支持变量级别粒度的调试。
 
 TinyTask 是一款非常强大且实用的电脑鼠标键盘录制与模拟工具 。这款工具不到 40k ，却能将你的电脑所有操作记录下来 ，并支持重复播放演示  。当你有需要多次重复操作的工作需求时 ，只需使用 TinyTask 录制一次 ，即可反复播放进行操作 。它还支持自定义设置循环播放次数与播放速度 ，让你彻底解放双手 ，提高办公效率 。
 
+## Tipard Screen Capture
+
+Tipard Screen Capture 是一款专业的录屏工具，可以帮助用户在PC上录制高品质的视频，可以录制屏幕、视频、游戏、在线聊天、音频等。支持录制鼠标轨迹。
+
 ## ToDesk
 
 免费强大的远程协助软件
@@ -2769,6 +2901,10 @@ Twinkle Tray lets you easily manage the brightness levels of multiple  monitors.
 
 简单说就是可以让台式机像笔记本一样调节屏幕亮度
 
+## TwistedBrush
+
+TwistedBrush 是一款多功能软件，可让您增强照片的外观。有了它，您可以将绘图导出为多种图像格式，包括 PNG、JPEG、TGA、BMP、GIF、TIF 等。
+
 ## Txt2Mobi通用版
 
 将Txt转换为Mobi格式的小工具
@@ -2837,6 +2973,10 @@ UniversalViewer 是一款非常强大的适用于 Windows 系统的万能文件�
 
 用于在插上目标U盘后自动按需复制该U盘的文件。"备份&偷U盘文件的神器"
 
+## USB Safely Remove
+
+USB Safely Remove  是一款必备软件，它允许用户连接和停止计算机与外部设备（如手机、存储卡、USB、硬盘驱动器、显示器等）之间的连接。它使您免于因不安全删除而导致数据丢失的问题外部驱动器，或无法断开 USB 驱动器。独创的多功能停止菜单，用图标显示实际设备名称，您可以使用此菜单快速找到并停止设备！
+
 ## uTools（推荐）
 
 快速启动、工具集、日常生活小助手，功能十分强大
@@ -2873,6 +3013,8 @@ VeryCapture 是一款功能丰富且强大的电脑屏幕捕捉工具，目前�
 
 ## VideoProc
 
+VideoProc 是第一款充分利用Level-3 GPU加速的快速视频处理软件。作为一个完整的视频工具箱，它可以轻松编辑、转换和处理您的 4K 视频。不仅如此，它还在视频下载和录制方面脱颖而出。
+
 能够转换、处理、裁剪各种分辨率的视频以及音频
 
 特别采用了Level-3 硬件加速技术，使得在降低CPU使用率的同时尽可能的增加视频处理的速度(最高可达47倍速)，而且功能丰富。
@@ -2900,6 +3042,18 @@ VeryCapture 是一款功能丰富且强大的电脑屏幕捕捉工具，目前�
 ## vlc
 
 强大的视频播放器
+
+## Vovsoft Picture Downloader
+
+借助 Vovsoft Picture Downloader，您可以轻松地在网络上查找和下载数百万个图像文件。这个有用的软件带有两个单独的选项卡：使用搜索引擎搜索图像和在特定网站上搜索。因此，您可以从网站中提取图像或将 URL 导出到文本文件中。
+
+## Vovsoft Rename Multiple Files
+
+Vovsoft Rename Multiple Files 是一种快速简便的批量重命名实用程序，只需单击几下即可重命名多个文件，从而为您节省大量时间。
+
+## Vovsoft SEO Checker
+
+Vovsoft SEO Checker 是一种网站分析器和 SEO 审核工具，可让您测试网站的搜索引擎优化。有了它，您可以提高网站 SEO 的排名和状态。此外，SEO Checker 为您提供站点地图、链接、内部反向链接、H1 和 H2 标题的完整列表。
 
 ## Vov Sticky Notes
 
@@ -3076,6 +3230,10 @@ Windows窗口触发角工具
 
 WinXcorners 是一款非常高效的电脑屏幕快捷操作辅助工具，目前仅适用于 Windows  系统。软件开源小巧，而且完全免费，虽然暂不支持中文，不过软件操作起来还是非常简单的。它能帮你在电脑屏幕的四角添加快捷功能，当鼠标移动到屏幕四角后，即可触发并执行相应的命令或动作，还可设置延迟触发的时间，避免误触。此外，WinXcorners  不仅内置了显示任务视图、显示桌面、开启屏保、打开通知中心、隐藏窗口等多种快捷方式，还支持自定义添加快速打开指定应用程序或文档等快捷方式，让你的电脑更加高效易用。
 
+## WinX HD Video Converter Deluxe
+
+WinX HD Video Converter Deluxe 是视频转换器和 YouTube 下载器的组合，面向初学者和专业人士。 Windows  软件可以处理所有常见的视频格式和编解码器，例如标清、高清或 4K 超高清分辨率的 AVI、MP4、MOV、MKV、WMV、HEVC、H.264。
+
 ## Winxmove
 
 Win-X-Move
@@ -3181,6 +3339,14 @@ Wiztree 是一款免费的 Windows 电脑磁盘文件分析工具 。软件体�
 
 轻量的桌面计时软件
 
+## WonderFox Document Manager
+
+使用 WonderFox Document Manager，您只需点击几下即可列出、管理和备份文档，而无需一一搜索和备份。您可以使用“锁定”、“隐藏”和“加密”功能来保护您的办公文档内容。
+
+## WonderFox Video Watermark
+
+WonderFox Video Watermark 帮助用户在视频和剪辑中插入徽标，以表明它们是受版权保护的视频和剪辑。通过使用 WonderFox 视频水印，视频和剪辑将被验证为您的，当其他用户使用它时，他们必须获得您的许可。
+
 ## Wox
 
 快速启动，和UTools相似
@@ -3208,6 +3374,14 @@ Word文档直接另存为MarkDown格式
 An easy to install Apache distribution containing MySQL, PHP, and Perl        
 
 简易LAMP
+
+## XenArmor PDF Password Remover
+
+XenArmor PDF Password Remover Pro 是一款有用的软件，通过删除密码所有限制（如复制、编辑、签名、打印 PDF 文件等）来帮助您解锁 PDF 文件。此外，该软件支持所有类型的加密 PDF 文件（RC4、 AES 等）。
+
+## XenArmor Website Blocker Pro 2021
+
+XenArmor Website Blocker Pro 2021  是一款多合一软件，可一键立即阻止任何网站。它允许您立即阻止所有类型的网站（社交网络、游戏、赌博、电影、成人网站），而无需安装任何插件、防火墙或代理服务器。您还可以自动化或安排您的网站阻止操作。
 
 ## XinBSConceptClock
 
