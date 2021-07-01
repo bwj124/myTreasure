@@ -509,6 +509,8 @@ Bitwarden 是一款非常强大的跨平台密码管理工具 。软件界面简
 
 ## BleachBit
 
+磁盘清理软件
+
 这是一款免费、开源的多平台（支持Windows、Linux）的系统清理优化工具，大小十几兆，便携免安装，除了可以释放缓存，删除cookies，清除互联网历史记录，粉碎临时文件，删除日志，并清理垃圾，可以清除成千上万的应用程序，包括Firefox，Adobe Flash，Google Chrome，Opera等，以及其它高级功能；
 
 ## Blender
@@ -558,6 +560,14 @@ Bob是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以�
 ## BootRacer Premium
 
 开机启动项管理工具
+
+## Bosskey
+
+老板键，使用快捷键快速关闭和静音指定程序
+
+## Brooklyn
+
+Mac屏保，有动效，简洁美观
 
 ## Bypass
 
@@ -2328,6 +2338,12 @@ Wi-Fi 接入点和密码
 
 根据开发者的说法，Privacy Protector for Windows 10 可以保护你的电脑免受上述问题的困扰！
 
+## Privatezilla 
+
+管理常用Windows服务和组件
+
+保护Windows用户隐私，可以方便地管理Windows防火墙、禁用小娜、关闭广告等。
+
 ## ProcessExplorer
 
 进程管理工具
@@ -2738,6 +2754,12 @@ SyncBird Pro 跟 WinX MediaTrans 和 DearMob iPhone Manager 一样，是 iTunes 
 
 Syncthing 是一款免费且开源的跨平台文件同步神器 。它可以让你无需在不同设备上反复操作 ，也不用上传到各种云盘  ，就能轻松实现在不同设备上同步并修改任何文件 。相比之前推荐过的微力同步 ，Syncthing 不仅跨平台支持 Windows 、Mac  、Linux 、Android 等设备 ，还支持在部分硬件上使用 。软件支持中文 ，操作简单便捷 ，只需在每个设备上安装 Syncthing  并进行配对即可进行单向同步 、双向同步 、创建文件夹及同步文件等操作 ，而且传输过程均会被加密 ，让你文件更加安全 ，大大提高了日常工作效率 。
 
+## Synergy
+
+多平台的共享键盘助手
+
+Synergy 是一款可以在 Windows、Mac 和 Linux之间共享鼠标和键盘的软件，当你需要在不同电脑之间进行切换时，有Synergy  无疑是相当方便的。使用它需要将共享的电脑连接至同一个网络，其中一台设置为 Server，其余设为  Client，连接时共享的设备数量没有限制。连接之后，鼠标可以在多个屏幕之间无缝操作，同时还拥有设定热键操作、共享剪切板等功能。
+
 ## Synthesizer V
 
 AI歌声合成软件。
@@ -3030,6 +3052,10 @@ USB Safely Remove  是一款必备软件，它允许用户连接和停止计算�
 ## VeraCrypt
 
 可以新建一个分区来隐藏私密文件**（一定要记住秘钥）**，可以设置多个密码，每次打开的就会是不同的
+
+免费的磁盘加密软件
+
+VeraCrypt 是一款基于 TrueCrypt 开发的免费开源磁盘加密软件，适用于 Windows、MacOS、Linux  多个平台。其主要作用在于增强系统与分区加密算法的安全性，以提高受到攻击时的可靠性。使用它可以在文件中创建虚拟加密磁盘并将其挂载为真实磁盘，也可加密整个分区或单独的储存设备，加密过程是实时、自动及透明的。VeraCrypt 在系统分区被加密时采用 327661 迭代，对 RIPEMD160 使用 655331，对 SHA-2 和 Whirlpool 使用  500000 次迭代，在安全性上可以说是相当有保证了。而与此同时所需付出的代价仅为打开加密分区时略有延迟，并不影响读取写入性能。
 
 ## Vertexshare Photo Effects
 
@@ -3418,6 +3444,12 @@ Word文档直接另存为MarkDown格式
 An easy to install Apache distribution containing MySQL, PHP, and Perl        
 
 简易LAMP
+
+## xBrowserSync
+
+开源的浏览器同步工具
+
+xBrowserSync 是一款免费开源的浏览器书签同步工具，同时也可对书签添加描述与标签，目前支持 Chrome、Firefox 以及  Android。xBrowserSync 无需注册，下载后输入加密密码并单击即可创建新同步，与此同时你还会收到一个匿名同步的  ID，用于在其他浏览器/设备同步访问数据。它使用 PBKDF2 和 SHA-256  进行加密，而原始同步密码并不进行远程存储，在隐私与安全上有一定的保证。此外，它还提供了在线服务器用于储存数据，同时也支持用户自行架设服务。如果你并不那么信任默认浏览器提供的服务，可以试试使用  xBrowserSync 喔。
 
 ## XenArmor PDF Password Remover
 
