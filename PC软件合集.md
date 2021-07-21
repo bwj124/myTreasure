@@ -299,6 +299,10 @@ Alldup 是一款可以快速搜索并删除计算机上重复文件的电脑软�
 
 动画黑板，可以用于知识类视频的制作
 
+## annie
+
+下载B站视频（命令行）
+
 ## Ant Download Manager PRO
 
 Ant Download Manager PRO 是一款专业的下载工具，可以下载网站视频，音频，支持多线程下载，可以大幅提高下载速度。
@@ -2408,6 +2412,10 @@ Wi-Fi 接入点和密码
 
 进程管理工具
 
+## ProjectEye
+
+基于20-20-20的护眼软件
+
 ## PureRef
 
 图片素材管理软件
@@ -2645,6 +2653,12 @@ Screen to Gif 是一款非常出色的 GIF 动画录制与编辑工具 。软件
 ## ShotCut
 
 一款开源免费的跨平台视频剪辑工具
+
+## Simple note
+
+简洁好用的开源笔记软件
+
+Simple note 是一款多平台的免费笔记软件，支持 iOS、Android、Mac、Windows、Linux 或 web 多个平台。它由  WordPress 的母公司 Automattic 推出，所以也支持使用 WordPress.com  的账户登录。这款软件的使用界面就和它的名字一样，非常简单——能够不受任何干扰的进行记录。Simple note 支持 Markdown  语法，也提供了标签、清单、置顶、笔记引用以及搜索等笔记常用功能，同时支持自动备份和历史记录，并且可以多人协作或将页面生成链接公开共享。其最大的特点应该是自动实时更新同步，可以将任一笔记的修改同步更新到所有设备上。此外，Simple note 支持 JSON、TXT 以及 MD 三种格式内容的导入，同时也支持导出笔记内容进行备份。
 
 ## Simple Sticky Notes
 
@@ -3030,6 +3044,10 @@ TwistedBrush 是一款多功能软件，可让您增强照片的外观。有了�
 ## Txt2Mobi通用版
 
 将Txt转换为Mobi格式的小工具
+
+### TXT工具
+
+处理TXT的小工具，包括去除空行、排序号等
 
 ## Typora
 
@@ -4374,6 +4392,10 @@ CFF Explorer
 ## 视频号下载工具
 
 下载微信视频号视频
+
+## 视频下载高手
+
+下载VIP视频，下载解析视频
 
 ## 实用小软件
 
