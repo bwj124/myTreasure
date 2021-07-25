@@ -1,4 +1,4 @@
-# PC软件合集
+PC软件合集
 
 ## 16款良心工具
 
@@ -367,6 +367,10 @@ AquaSnap 是一款强大实用的 Windows 桌面窗口排列和布局的管理�
 
 Arctime 是一款功能强大的跨平台字幕制作软件 。完美适配 Mac 、Windows 、Linux 系统 。导入视频后只需在时间线上拖动鼠标  、调整字幕块即可轻松完成字幕创建工作 。支持导出 SRT 、ASS 、LRC 等常用格式字幕 ，还可以导出适用于 FCP7 、PR  、达芬奇等的软字幕格式 。此外 ，ArcTime 还有输出 GIF 动图 、批量截图 、多张截图拼接 、自动语音识别  、批量机器翻译等超多实用且强大的功能 ，可大大加速碎片化内容的生产效率 。
 
+## ASCOMP Secure Eraser
+
+ASCOMP Secure Eraser 是一款功能强大的软件，可让您安全地删除敏感文件、文件夹和驱动器并清理系统。此外，这个惊人的软件能够查看 Windows 注册表中的任何错误并修复它们。
+
 ## Ashampoo Burning Studio
 
 支持刻录数据、音乐、视频到 CD、DVD、蓝光光盘，为电影光碟自行设计菜单，而且能够备份文件或者外置盘，将光盘中的文件存档到电脑。另外还增加了光盘封面制作的功能，高性能和时尚的外观满足你的所有刻录需求。
@@ -420,6 +424,10 @@ Auto Dark Mode 是一款开源小巧且完全免费的适用于 Windows  电脑�
 ## Background Eraser
 
 Apowersoft Background Eraser，傲软抠图是由傲软（APOWERSOFT）软件出品，可以自动识别，一键抠图换背景的软件，使用智能 AI  加持，能够快速扣人像、商品、公章、各种图形等，还能快速更换证件照底色，裁剪尺寸等，堪称证件照制作的小能手。
+
+## Backup4all Lite 9
+
+Backup4all 是保护您的数据免受部分或全部丢失的完美选择。它会自动执行备份过程以节省您的时间，压缩数据以节省存储空间（使用标准 zip 格式），并加密您的备份以保护您免受未经授权的使用。
 
 ## BaiduPCS-Go
 
@@ -1003,6 +1011,10 @@ Duplicate File Finder Plus 是一款易于使用的 Windows  上的重复文件�
 
 查找和删除重复图片
 
+## DVDFab Enlarger AI
+
+DVDFab Enlarger AI 是世界上第一个具有深度学习能力的完整视频升级解决方案，可以使用超分辨率技术将视频从 480p (SD) 增强到  1080p（全高清）或从 1080p 增强到 4K。它将视频图像的大小增加了 300%，同时还添加了精细的细节以显着提高视频质量。
+
 ## DVDFab Video Enhancer AI
 
 DVDFab Video Enhancer AI 是视频质量增强和分辨率放大的最佳工具。它不仅可以帮助您增强质量差和分辨率低的视频和电影，还可以在短时间内将分辨率放大到 4K。此外，它还改善了大屏幕观看体验。
@@ -1427,15 +1439,19 @@ Glass2K 是一款非常小巧的窗口透明度修改工具 ，它可以轻松�
 
 视频下载器，可以下载各大主流视频平台
 
-## GpuZ
+## GoodSync
 
-显卡的详细信息
+使用 GoodSync 轻松备份和同步您的文件。我们简单而安全的文件备份和同步软件确保您的文件绝对不会丢失。
 
 ## GotoHTTP
 
 容单易用的远程控制工具
 
 GotoHTTP 是一款简单易用 、功能丰富 、不同于传统 C2C 模式的远程控制工具 。在使用远程控制时 ，不必在每一台电脑上都安装远程软件 。不管身处何处  ，即使公司网络管控 ，只要有浏览器就能访问远程电脑 。主要支持文件传输 、无人值守 、剪切板同步 、远程语音 、多显示器支持  。帮你轻松从手机控制远程电脑或其他手机 。
+
+## GpuZ
+
+显卡的详细信息
 
 ## Grid
 
@@ -1514,6 +1530,10 @@ HEU KMS Activator，简洁高效的全能激活工具，适用所有Windows, Off
 ## HiBitUninstaller
 
 卸载软件，包括win10商店下载的软件，还支持清理注册表、清理垃圾等
+
+## HitPaw Photo Enhancer
+
+HitPaw Photo Enhancer 是一款多功能且专业的照片编辑工具。使用这款照片增强软件，您可以轻松快速地放大图像，一键修复模糊的高质量图像。
 
 ## HiPC
 
@@ -1972,6 +1992,8 @@ MyDockFinder 是一款适用于 Windows 电脑的桌面美化工具 。它能轻
 
 内网穿透服务
 
+国内有一家叫Sunny-Ngrok
+
 ## Notable
 
 Markdown编辑器。Notable 支持 Linux、FreeBSD、MacOS、Windows7 等主流操作系统，实际上它与 VS Code 所使用的编辑器相同，因此内置了多光标，小地图和一流的语法高亮等功能。
@@ -2375,6 +2397,12 @@ Privacy Badger  是一款开源的浏览器插件，用于阻止第三方追踪�
 电脑隐私清理神器
 
 Privacy Eraser 是一款功能丰富强大的电脑系统优化及隐私清理工具 。它内置了超过 200 个免费实用的插件 ，不仅可以快速清理系统运行的历史记录  、搜索记录 、最近文档 、临时文件 、剪切板 、回收站和浏览器内所有的相关痕迹 ，还拥有文件粉碎机 、驱动器擦除器 、Cookie 管理等工具  。软件安全级别甚至实现并超过美国国防部标准 ，一旦删除文件 ，数据将永远消失 ，无法恢复 。
+
+## Privacy Essentials
+
+网上冲浪时的无缝隐私保护插件
+
+DuckDuckGo Privacy Essentials 是由注重用户隐私保护的知名搜索引擎 DuckDuckGo 所提供的一款免费小工具，可以在 web  浏览器、iOS、Android 上提供基础保护，防止个人信息的泄露。主要功能是阻止网站上的追踪器、强制实用加密连接同时通过  GPC（全球隐私控制）表明自己拒绝共享数据。安装完成后即可使用，一键过滤追踪和广告，同时还提供当前浏览网站的评级情况。不过这款插件安装后会将浏览器默认搜索引擎和主页修改为 DuckDuckGo，且暂时无法更改。
 
 ## Privacy Protector for Windows 10
 
@@ -3027,6 +3055,10 @@ Traffic Monitor 是一款适用于 Windows 电脑的网速监控悬浮窗软件 
 
 TreeSize 是一款非常强大且实用的电脑磁盘空间管理工具 。软件大小仅有 8M ，而且支持简体中文 ，操作非常简单 。你可以选择扫描磁盘  ，也可以选择其中的文件夹 ，而且扫描速度相对更快 ，展示的信息也更加丰富全面 。它不仅能帮你列出电脑上所有文件所占用空间的具体数值  ，还可以通过可视化图表的形式 ，帮你轻松查看各文件的大小 、分配的空间 、文件数量等信息 。点击即可快速展开文件目录  ，方便用户进行移动或删除操作 ，保证电脑流畅运行 。
 
+## Trisun PDF to DOC
+
+如果您想使用可靠的软件进行 PDF 转换，那么 Trisun PDF to DOC 是您的选择。Trisun PDF to DOC 为您提供将 PDF 转换为 Word 或写字板格式的可能性，并可选择批量转换多个文档。
+
 ## TV盒子助手
 
 可以直接安装应用到电视，而不用使用U盘安装。还有一些其他功能如ROOT、垃圾清理等
@@ -3036,6 +3068,10 @@ TreeSize 是一款非常强大且实用的电脑磁盘空间管理工具 。软�
 Twinkle Tray lets you easily manage the brightness levels of multiple  monitors. Even though Windows 10 is capable of adjusting the backlight  on most monitors, it typically doesn't support external monitors.  Windows also lacks any ability to manage the brightness of multiple  monitors. This app inserts a new icon into your system tray, where you  can click to have instant access to the brightness levels of all  compatible monitors.
 
 简单说就是可以让台式机像笔记本一样调节屏幕亮度
+
+多屏快捷调整亮度
+
+Twinkle Tray 是一款能够快捷调整各个屏幕亮度的小工具，目前 Windows 可用。众所周知，Windows  的设置中是无法管理外接屏幕的亮度的，我们只能在外接屏幕上调整。如果你拥有多块显示屏又想方便地调整屏幕亮度，不妨试试这款开源的 Twinkle  Tray。工具本身很简单，安装完成之后就可以直接在底部任务栏中用鼠标拖动来改变亮度。同时还提供了根据时间调整的定时选项，也提供了快捷键调整的选项。
 
 ## TwistedBrush
 
@@ -3222,6 +3258,10 @@ Wallabag 是一款开源的稍后阅读工具，类似的有 Pocket、Instapaper
 ## Wallhaven
 
 自动识别屏幕分辨率并推荐合适的壁纸
+
+## WonderFox Photo Watermark
+
+WonderFox Photo Watermark是一个全功能的图片水印工具，可以给图片添加文字、图片水印，也支持给图片添加各种特效滤镜、添加边框等功能。所有的操作都支持批量处理。
 
 ## Web Activity Time Tracker
 
@@ -4562,6 +4602,10 @@ Universal Viewer Pro
 ## 网易云音乐解锁灰色
 
 解锁网易云无版权和VIP歌曲
+
+## 网云穿
+
+内网穿透
 
 ## 微博图下载助手
 
