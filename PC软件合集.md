@@ -361,6 +361,16 @@ ApowerRec 还提供了丰富的自定义参数设置功能，你可以自定义�
 
 AquaSnap 是一款强大实用的 Windows 桌面窗口排列和布局的管理工具 。软件小巧 、无广告 ，有免费版和专业版两个版本 。AquaSnap  支持屏幕边缘吸附 、屏幕分屏 、窗口透明置顶 、窗口自动拉伸 、同时移动多个窗口等实用功能 。启动 AquaSnap 后  ，你可以用一个简单的手势来拆分桌面 ，可以使窗口像磁铁一样进行移动 ，轻松对齐窗口 ，不浪费桌面空间 。
 
+## Archivarius
+
+全文搜索
+
+Archivarius可以搜索文件或者文件中的内容。使用Archivarius首先需要建立索引，建立索引时，选择想要搜索的文件夹。除了本地文件搜索外，Archivarius还可以从Google搜索，并且它还支持SSL。
+
+Q&A：和Everything区别。
+
+最大的区别就是Everything不可以搜索文件内容，只能搜索到文件名。所以我觉得这个工具可以很好的进行局部的（因为要自己选择文件夹）详细搜索。
+
 ## Arctime
 
 强大的跨平台字幕制作软件
@@ -3685,7 +3695,9 @@ for filename in `.*`:
 echo @(i for i in range(42))
 ```
 
+## Xshell Xftp
 
+这是两个软件。Xshell可以连接远程终端，Xftp则方便远程文件的传输选择SFTP协议），两者配合使用。
 
 ## Xtranslator
 
