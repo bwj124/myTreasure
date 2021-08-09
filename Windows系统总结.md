@@ -935,3 +935,11 @@ Microsoft Store（不建议卸载）：Get-AppxPackage *windowsstore* | Remove-A
 
 3.  重启电脑
 
+### Chorme内核浏览器开启自带多线程下载
+
+在地址栏输入：
+
+```apl
+chrome://flags/#enable-parallel-downloading
+```
+
