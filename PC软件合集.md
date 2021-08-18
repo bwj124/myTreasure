@@ -694,7 +694,7 @@ Chrono 是一款功能非常强大的适用于 Chrome 及 Edge 浏览器的全�
 
 ## Clash
 
-类似小火箭（Shadowrocket）或者V2Ray工具
+类似小火箭（Shadowrocket）或者V2Ray工具，优点是支持分流代理，即不同应用使用不同代理
 
 ## Classic Shell
 
