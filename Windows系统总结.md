@@ -801,9 +801,17 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters 主
     >
     > 随便打开一个文件夹或者按Win+E，然后进入任务管理器（Shift+Ctrl+Esc）。找到资源管理器，右键->重新启动
 
-### 关闭我的电脑中的腾讯视频
+### 关闭我的电脑中的腾讯视频、和彩云网盘
 
-进入计算机\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{E701A357-F43B-42c9-98D1-96B6C11EAD87}，删除默认(ab的那个，数据写着腾讯视频)
+1. 腾讯视频
+
+进入`计算机\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{E701A357-F43B-42c9-98D1-96B6C11EAD87}`，删除默认(ab的那个，数据写着腾讯视频)
+
+2. 和彩云网盘
+
+    删除注册表中的`计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{3C6C4AE3-9AE3-436F-BE29-E1C2F38A5EEC}`
+
+    (建议同时删除`计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3C6C4AE3-9AE3-436F-BE29-E1C2F38A5EEC}`)
 
 ### Window去除锁屏界面乱七八糟的提示
 
