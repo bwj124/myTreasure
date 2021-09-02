@@ -445,6 +445,12 @@ Auto Dark Mode 是一款开源小巧且完全免费的适用于 Windows  电脑�
 
 即小红伞，杀毒软件
 
+## Axialis CursorWorkshop
+
+鼠标指针光标制作软件
+
+Axialis CursorWorkshop是专业的鼠标指针制作工具，支持自定义光标，通过绘画直接替换，设计鼠标光标
+
 ## Background Eraser
 
 Apowersoft Background Eraser，傲软抠图是由傲软（APOWERSOFT）软件出品，可以自动识别，一键抠图换背景的软件，使用智能 AI  加持，能够快速扣人像、商品、公章、各种图形等，还能快速更换证件照底色，裁剪尺寸等，堪称证件照制作的小能手。
