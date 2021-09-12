@@ -951,3 +951,28 @@ Microsoft Store（不建议卸载）：Get-AppxPackage *windowsstore* | Remove-A
 chrome://flags/#enable-parallel-downloading
 ```
 
+### 电脑WIFI图标消失
+
+如果是大学生或其他需要客户端认证上网的人员，可参考下面操作此方法也是从吧友那里借鉴：把下面的代码复制粘贴到文本文档，然后改后缀.reg，再运行最后重启就好了。
+
+```
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog]
+“ServiceDll”=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,\
+77,00,65,00,76,00,74,00,73,00,76,00,63,00,2e,00,64,00,6c,00,6c,00,00,00
+```
+
+如果无法运行，按win+r启动运行，输入regedit进入注册表项
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog]
+
+按照上面顺序打开，右键新建 可扩充字符串值，修改;
+
+数值名称ServiceDll
+
+数值数据%SystemRoot%\System32\wevtsvc.dll
+
+最后重启就好了。
+
+问题原因在于Windows1809版本上，安装校园网netkeeper，会导致任务栏网络图标不见，并且网络适配器miniport全部不了见，并且服务中Remote access和Windows Event Log无法启动。
