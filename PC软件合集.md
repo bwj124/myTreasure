@@ -537,6 +537,10 @@ Mac电脑压缩软件
 
 B站快速升级工具（通过自动刷任务）([开源地址](https://github.com/RayWangQvQ/BiliBiliTool/))
 
+## BilibiliVideoDownload
+
+下载B站视频
+
 ## bilibili视频下载器
 
 下载B站视频
