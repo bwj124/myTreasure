@@ -1584,6 +1584,12 @@ Gigapixel AI 是一款非常强大的 AI 图片无损放大工具，目前拥有
 
 Glass2K 是一款非常小巧的窗口透明度修改工具 ，它可以轻松调整 Windows 下的任意窗口的透明度 。软件不到 100K ，占用内存极小  ，非常类似之前推荐过的 AquaSnap 中的透明置顶功能 ，但 Glass2K 可以自由修改各个窗口的透明度 ，而且操作更加简单 。只需按下  Ctrl + Shift + 数字键 ，即可调整透明度 。非常适用于在 PS 等图片处理软件中制作双重曝光效果或者临摹图片  ，也更加适用于我们日常办公或学习中 ，可以一边编辑文档 ，一边查阅资料 ，达到事半功倍的效果 。
 
+## glnk
+
+屏幕标注工具
+
+把屏幕当白板
+
 ## gnirehtet
 
 手机电脑共享带宽
@@ -3800,10 +3806,6 @@ Wallabag 是一款开源的稍后阅读工具，类似的有 Pocket、Instapaper
 
 自动识别屏幕分辨率并推荐合适的壁纸
 
-## WonderFox Photo Watermark
-
-WonderFox Photo Watermark是一个全功能的图片水印工具，可以给图片添加文字、图片水印，也支持给图片添加各种特效滤镜、添加边框等功能。所有的操作都支持批量处理。
-
 ## WDP
 
 新一代数字孪生PaaS平台
@@ -4146,6 +4148,10 @@ Wiztree 是一款免费的 Windows 电脑磁盘文件分析工具 。软件体�
 ## WonderFox Document Manager
 
 使用 WonderFox Document Manager，您只需点击几下即可列出、管理和备份文档，而无需一一搜索和备份。您可以使用“锁定”、“隐藏”和“加密”功能来保护您的办公文档内容。
+
+## WonderFox Photo Watermark
+
+WonderFox Photo Watermark是一个全功能的图片水印工具，可以给图片添加文字、图片水印，也支持给图片添加各种特效滤镜、添加边框等功能。所有的操作都支持批量处理。
 
 ## WonderFox Video Watermark
 
