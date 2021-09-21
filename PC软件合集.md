@@ -3804,6 +3804,12 @@ Wallabag 是一款开源的稍后阅读工具，类似的有 Pocket、Instapaper
 
 WonderFox Photo Watermark是一个全功能的图片水印工具，可以给图片添加文字、图片水印，也支持给图片添加各种特效滤镜、添加边框等功能。所有的操作都支持批量处理。
 
+## WDP
+
+新一代数字孪生PaaS平台
+
+ 不用自己写代码，零基础也能做数字孪生，51world新一代数字孪生PaaS平台免费开放
+
 ## Web Activity Time Tracker
 
 好用的时间记录扩展
