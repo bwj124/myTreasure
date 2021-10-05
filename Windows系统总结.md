@@ -976,3 +976,9 @@ Windows Registry Editor Version 5.00
 最后重启就好了。
 
 问题原因在于Windows1809版本上，安装校园网netkeeper，会导致任务栏网络图标不见，并且网络适配器miniport全部不了见，并且服务中Remote access和Windows Event Log无法启动。
+
+## 其他软件都可以正常上网，但是QQ无法联网（错误代码000001）
+
+关闭网络适配器属性中的IPV6协议
+
+（开启后QQ连接IPV6的那个协议，反正不知道怎么的，IPV4的好用，所以关掉IPV6那个就好了）
