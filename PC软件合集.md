@@ -2156,6 +2156,10 @@ Koodo Reader 是一款跨平台的电子书阅读器，目前支持 Windows、ma
 
 Leawo PowerPoint to Video  Pro是一款功能强大的PPT转换为视频软件，支持各种PowerPoint文件格式输入，如.PPT，.PPS，.POT，.PPTX，.PPSX，.POTX，POTM等等，能多样化标准输出为高清视频格式，MP4，AVI，WMV，FLV，MOV，MKV，MPEG等180多种视频格式，且输出过程完整保留PowerPoint元素（动画、转场、音乐、解说以及影片剪辑等）。支持批量转换。此外，还可以添加背景音乐、水印以及logo等到输出的视频里。
 
+## LED Count
+
+全屏幕倒计时秒表
+
 ## LeDimmer
 
 关灯，可以让非活动窗口暗下来，注意力更集中
@@ -4945,7 +4949,7 @@ TickTick，Windows和安卓平台通用的TODO工具
 
 
 
-还有不同于上述的一个小程序，也叫定时关机，总是就是定时关机嘛
+还有不同于上述的一个小程序，也叫定时关机，总是都是定时关机嘛
 
 ## 冬瓜影视
 
