@@ -761,6 +761,10 @@ Mac屏保，有动效，简洁美观
 
 Bypass-分流抢票，抢火车票
 
+## C.Notepad
+
+吾爱开发的一款笔记本小工具
+
 ## Cache Relocator
 
 浏览器缓存重定向，如谷歌浏览器，火狐浏览器
@@ -2768,6 +2772,10 @@ Pakku 是一款非常实用的适用于 Chrome、Firefox、Edge 及其他 Chromi
 ## PandaOCR
 
 免费且开源的OCR软件
+
+## Pantherbar（微软商店）
+
+选中本地文字（网页的文字貌似不太好用）快捷复制粘贴，还包括多种插件，支持Google搜索，本地文件跳转，分享等
 
 ## Pap.er
 
