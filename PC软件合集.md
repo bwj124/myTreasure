@@ -903,6 +903,42 @@ Chrono 是一款功能非常强大的适用于 Chrome 及 Edge 浏览器的全�
 
 电脑跑分（CPU）
 
+## Citavi
+
+文献管理工具
+
+> 与EndNote的异同（[引用知乎回答](https://www.zhihu.com/question/20169073)）
+>
+> **同**
+>
+> 文献库管理，在线搜索，获取pdf，标注pdf，自动化引用。ctv支持国标的应用格式，EN应该也支持吧。
+>
+> **异**
+>
+> citavi界面更现代，浓浓的性冷淡风格。对比EN的界面还是10年前。
+>
+> ctv的协作，rss，pdf标注功能都更好用。
+>
+> 对比EN，协作 pdf都是渣渣，没有rss（很多数据库都有rss源，官家的管理器竟然不支持rss？）
+>
+> **ctv的启动速度很慢，比起来慢很多，偶尔卡到资源管理器都不动了。断网也一样（i7， ddr4 2400m双通道，sm961 256g，版本 Citavi  6.0.0.2）。不是cpu问题，不是硬盘问题，不是内存问题，也不是网络问题，就是软件本身编写的问题。刚写了反馈，等回复，看他们怎么说。对比EN，启动速度较快，操作速度也不错，不糟心。我觉得是citavi的主要问题。等重大版本更新吧
+>
+> ctv的免费版估计大学期间足够用了。EN正版都是单位买，很贵。
+>
+> ctv的task界面还是不错的，还支持打印schedual。 对比EN，没有吧。
+>
+> ctv软件界面有大量解释和提示，对新用户友好，对比EN，没什么提示不过并不难学，这类软件功能都那些。
+>
+> ctv支持资源也不少，**目测现在是推广期，所以才有好多状态刷屏。**尤其针对中国，不过 We need Chinese. 对比EN……我虽然对新用户不友好，可我也没有中文界面啊！
+>
+> Ctv在国内属于小众，EN是主流。
+>
+> Ctv有web Picker，可以吧页面信息保存到数据库里，似乎是个浏览器插件（Chrome。firefox？）EN没有。
+>
+> Ctv 的MS word插件加载速度很慢，严重拖累Word打开速度，对比EN，基本没影响。
+>
+> 坚定不用盗版的同学，也可以看看**Zotero**。据我所知只有两个小问题，一，需要翻墙注册（仅此而已），二，word插件用着不是很流畅不过也可用。
+
 ## Clash
 
 类似小火箭（Shadowrocket）或者V2Ray工具，优点是支持分流代理，即不同应用使用不同代理
@@ -1091,6 +1127,12 @@ DearMob iPhone Manager 支持图片、音视频等媒体文件的快速传输，
 
 
 DearMob iPhone Manager 是世界上第一个使用加密方法传输 iPhone 数据的 iOS 管理器。它允许您完全管理您的 iOS  数据。内置传输 iPhone 照片、视频和通讯录的军事加密等级以防止隐私泄露，按时间顺序备份和恢复 iOS 数据，以及有选择地将内容从计算机 2 向传输到 iPhone 的选项，无论是照片、视频、音乐、联系人、消息、iTunes  U、播客、应用程序、日历、语音、文件等。您的隐私不能免于泄漏，使用 DearMob iPhone Manager 保护它以避免威胁。
+
+## DeepFakes
+
+3D实时渲染
+
+可以将一张静态人物面部图片实时渲染动作
 
 ## Deepl翻译
 
@@ -1425,6 +1467,12 @@ Epic pen 是一款能够在任何软件上实时做出注释标记的工具，�
 ## eRead
 
 小说阅读
+
+## EShareTool
+
+解除天翼校园WIFI热点共享检测
+
+超实用天翼校园网插件，在Windows上配置一次就可以不受校园网限制开热点给其他设备使用。
 
 ## Everything（推荐）
 
@@ -1913,16 +1961,21 @@ hashcat号称世界上最快的密码破解工具，多算法，资源利用率�
 支持视频转换，视频下载等，可以替换格式工厂
 
 * 支持转换300多种视频格式，在确保视频质量的同时，压缩率可达80%
-
 * 支持画面剪切、片段剪辑、片段合并、特效添加、铃声制作、声音调整
-
 * 独特的HD视频编码技术和批量转换模式，可以转换4K、H265
-
 * 支持多轨视频转换（MKV、AVCHD、HDTV、BDAV、MPEG-TS等）
-
 * 先进高清视频转换（如4K、HD MKV、HD MP4、HD AVI等）
-
 * 支持高清或标清转换4K (UHD), 1080P (FHD), 720P (HD), 480P(SD)
+
+## helix
+
+modal 编辑器
+
+helix 是基于 kakoune 模态 modal 编辑器，特性：
+
+- 类似 Vim 模态编辑
+- 内置语言服务支持
+- 智能、增量语法高亮和通过 tree-sitter 进行代码编辑
 
 ## HelloFont
 
@@ -2102,11 +2155,23 @@ iToolab UnlockGo是一款帮您轻松移除iPhone/iPad/iPod touch各种锁屏密
 
 UnlockGo可帮助你轻松解除iPhone密码，无论是4位密码， 6位密码，指纹锁还是人脸识别锁，UnlockGo都能在几分钟内将其删除。
 
+## Izotope
+
+价值1199美刀的音频后期处理神器：iZotope
+
+功能有音频制作，后期合成处理，混音，音频修复，音频美化，提取人声
+
+（不要修改默认安装位置）
+
 ## i笛云听写
 
 免费录音转文字
 
 i笛云听写是一款完全免费的录音转文字平台 。目前主要有录音转文字 、文稿编辑器和文稿播放器等特色功能 ，让你在整理逐字稿 、笔记或访谈采访稿时 ，更加精准高效 。除此之外  ，i笛云听写还提供了大容量的数据云存储空间 ，以及文件分类与搜索功能 ，让你在不同设备上也能快速精准查找你想要的文件 。
+
+## JabRef
+
+JabRef是一个开放源代码、处理BibTeX格式的文献管理软件，提供了简易操作的界面来编辑BibTeX档案。
 
 ## Joe Paper
 
@@ -2155,6 +2220,12 @@ Joyoshare VidiKit 是一个功能强大的视频工具箱，集成了视频转�
 3、DVD 和蓝光（解密后）
 
 除此之外软件还提供字幕显示、硬件加速视频解码、音频比特流、资源管理器中的视频缩略图、文件关联选项、损坏的编解码器检测等等功能.
+
+## Kalidokit（github项目）
+
+人脸、肢体跟踪
+
+kalidokit 可用于跟踪肢体、脸部动作，兼容 Facemesh、Blazepose、Handpose 和 Holistic。作为  Vtuber 网络应用、Kalidoface 和 Kalidoface 3D 的核心，KalidoKit 是为绑定 3D VRM 模型和  Live 2D 而设计的。
 
 ## Kap（MAC）
 
@@ -2467,7 +2538,7 @@ Glary  Malware  Hunter，一个非常强大的Windows优化软件，包括系统
 
 ## Mendeley
 
-轻量化文献管理工具，一个账号通用，整理文献必备！
+轻量化文献管理工具，一个账号通用，支持同步（据说不是很好用，同步会把你整理的东西覆盖）
 
 ## MFiles
 
@@ -2591,6 +2662,12 @@ mingw-w64是多加了写api函数。
 
 msys2是因为msys开发太慢又搞了的一个东西。
 
+## MUAI
+
+.NET 跨平台 UI 框架
+
+MUAI 是 .NET 官方出品的跨平台 App UI，用于使用 C# 和 XAML 创建本地移动和桌面应用程序。MAUI 让你一份代码运行在 Android、iOS、iPad、macOS 和 Windows 多个系统上。
+
 ## Multrin
 
 将多个软件合并到一个窗口
@@ -2612,6 +2689,10 @@ MusicPlayer2是一款集音乐播放、歌词显示、格式转换等众多功�
 在 Windows 上模拟 Mac OS 系统桌面
 
 MyDockFinder 是一款适用于 Windows 电脑的桌面美化工具 。它能轻松快速地把你的 Windows 系统伪装成 Mac  ，无论是底部能添加或快速启动程序的 Dock 栏 ，还是顶部便于操作的 Finder ，在这里都能一键开启 ，并支持丰富全面的自定义设置 。此外 ，MyDockFinder 还支持图标显示任务进度 、模拟 Mac 窗口动画 、显示完整文件夹内容等多种细致的小功能 ，让你体验到极致的模拟  Mac OS 系统 。
+
+## MyerSplash
+
+精选壁纸
 
 ## MyJoy
 
@@ -2711,6 +2792,12 @@ PE镜像
 
 数据库管理软件
 
+## Nebula
+
+覆盖网络工具
+
+Nebula 是即时通讯软件 Slack 开源的覆盖网络工具，注重性能、简单性、安全性和可扩展。它能让你无缝连接任意一台电脑，可在 Linux、OSX、Windows、iOS 和 Android 上运行。
+
 ## NetLimiter
 
 网络管理软件
@@ -2724,6 +2811,10 @@ PE镜像
 内网穿透服务
 
 国内有一家叫Sunny-Ngrok
+
+## nn_vis
+
+Github上的一个开源项目，功能是对神经网络进行可视化
 
 ## noMeiryoUI
 
@@ -2744,6 +2835,10 @@ Zen 模式提供了简约的编辑和阅读体验，隐藏了所有不必要的�
 刘海屏模拟
 
 吾爱大佬根据Mac新出得刘海屏自己设计了一个软件版，但是会遮挡，尝试一下就好
+
+## NoteExpress
+
+同EndNote一样的文献管理软件，但是对中文文献更友好（因为是国人开发吧）
 
 ## Notepad++
 
@@ -3345,6 +3440,10 @@ Python IDE
 
 卸载Windows自带软件
 
+## Python-Mini-Projects（Github项目）
+
+python练手小项目
+
 ## Qalculate
 
 来自Github的免费开源多功能桌面计算器，**支持windows、Linux和MacOS平台。**
@@ -3546,6 +3645,14 @@ RubberTranslator 是作者在使用知云文献翻译和 CopyTranslator 两款�
 一键直达的高效启动器
 
 RunAny 是一款免费开源且功能丰富强大的电脑快速启动工具 。它完美结合了 Everything 、Listary 和 Utools 等神器的优点 ，启动 RunAny 后 ，你只需三个按键即可快速打开你想要启动的应用 。软件还借助了 Everything 的强大搜索功能  ，你只需要填写程序的文件名 ，即可自动找到相关路径 。此外 ，RunAny 还有右键打开文件 、透明化启动 、全局热键  、一键批量搜索等多种实用的增强功能 ，而且所有功能均支持自定义配置 ，是一款真正意义上的效率神器 。
+
+## RunCat_for_windows
+
+RunCat
+
+在任务栏养一只小猫咪吧！
+
+RunCat_for_windows 能在你的任务栏里装上一只在奔跑的小猫咪 🐱，给你的任务栏增添一丝生气。
 
 ## RustDesk
 
@@ -3844,6 +3951,12 @@ Sumatra PDF 是一款相当老牌的 Windows 开源 PDF 阅读器，相较于另
 ## Super Tools
 
 吾爱出品的火绒剑单文件版工具，还包含了其他小工具，十分实用
+
+## Sweet Home 3D
+
+平面设计工具，支持Windows，Linux，Mac
+
+可以设计房间布局
 
 ## Switch
 
@@ -4164,6 +4277,20 @@ Typora 是一款免费的 Markdown 文本编辑器，拥有着极致顺畅的写
 
 Windows自定义右下角系统时钟样式
 
+## uBlacklist
+
+Blocks specific sites from appearing in Google search results  
+
+浏览器插件，防止内容农场
+
+屏蔽列表1
+
+https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt
+
+屏蔽列表2
+
+https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt
+
 ## UltData
 
 电脑数据恢复
@@ -4206,6 +4333,10 @@ unclack 是一款很简单的 mac  小工具，可以帮助你在打字时自动
 
 Github开源的小说阅读器
 
+## Unigram（微软商店）
+
+Telegram第三方客户端（但是据说比官方的好用）
+
 ## Unistall Tool
 
 卸载工具
@@ -4229,6 +4360,12 @@ UniversalViewer 是一款非常强大的适用于 Windows 系统的万能文件�
 ## USB Safely Remove
 
 USB Safely Remove  是一款必备软件，它允许用户连接和停止计算机与外部设备（如手机、存储卡、USB、硬盘驱动器、显示器等）之间的连接。它使您免于因不安全删除而导致数据丢失的问题外部驱动器，或无法断开 USB 驱动器。独创的多功能停止菜单，用图标显示实际设备名称，您可以使用此菜单快速找到并停止设备！
+
+## useful-sed（Github项目）
+
+实用脚本和 patterns
+
+useful-sed 是作者整理的实用脚本和 pattern 项目，为了防止以后用到找不到。你可以从中学到各种一行命令完成的实用功能。上期有小伙伴问有没有强制删除文件的小工具，不妨试试 `sed '/^$/d' file`
 
 ## uTools（推荐）
 
@@ -4540,7 +4677,7 @@ WindowTrans 是一款非常实用且完全免费的电脑窗口透明度调节�
 
 ## WinDynamicDesktop
 
-时间壁纸，壁纸会随着时间的变化而变化
+时间壁纸，壁纸会随着时间的变化而变化（仿Mac）
 
 ## WinExt
 
@@ -6233,6 +6370,12 @@ TXT文档合并工具
 ## 向日葵
 
 远程控制软件
+
+## 小K直播姬
+
+人人皆可3D虚拟主播
+
+动作捕捉，3D虚拟主播同步
 
 ## 小白浏览器
 
