@@ -5054,19 +5054,17 @@ Zentimo xStorage Manager是一款实用小巧且功能强大的轻量级可移�
 
 可移动存储设备的不正常移除可能会导致存储芯片损坏，当然严重的话甚是会导致已保存的宝贵数据的永久性丢失，因此拥有这样一款外设管理器将是相当给力的安全体验。
 
-## Zetero
-
-免费文献管理软件
-
-Zetero拥有浏览器插件和word插件，可以方便的管理文献，标注文献 
-
 ## Ziperello
 
 破解ZIP压缩包密码
 
 ## Zotero 
 
-文献管理工具，其他的还有Endnote和Mendeley
+免费文献管理软件
+
+其他的文献管理工具还有Endnote和Mendeley
+
+Zetero拥有浏览器插件和word插件，可以方便的管理文献，标注文献 
 
 ## ZY Palyer
 
