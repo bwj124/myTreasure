@@ -230,6 +230,12 @@ Google官方ADB工具包
 
 去各种广告，包括网页的广告、各大视频网站播放视频前的广告
 
+## AdGuard Home
+
+广告拦截
+
+AdGuard Home 是一个用于拦截广告和跟踪的网络范围软件。设置好后，它将覆盖你所有的家用设备，你不需要任何客户端软件。它作为一个 DNS 服务器，将跟踪域（你设置的）重定向到一个“黑洞”，从而阻止你的设备连接到那些服务器。
+
 ## ADsafe净网大师
 
 去广告，各种广告
@@ -422,6 +428,12 @@ ApowerRec 还提供了丰富的自定义参数设置功能，你可以自定义�
 数据恢复王
 
 电脑数据恢复
+
+## AppFlowy
+
+Notion 替代
+
+appflowy 像是个 Notion 的精简版
 
 ## AquaSnap
 
@@ -817,6 +829,10 @@ BongoCat  是一款非常魔性又可爱的电子桌宠，这只喵喵会在赛�
 
 Mac屏保，有动效，简洁美观
 
+## Budibase
+
+Budibase 是一个开源的低代码平台，可以在几分钟内创建内部应用。支持  PostgreSQL、MySQL、MSSQL、MongoDB、RestAPI、Docker 和 K8s，此外它提供了各种可用于组装的 CSS  模块，你可以基于 Budibase 快速过构建自己的单页应用。
+
 ## Bypass
 
 Bypass-分流抢票，抢火车票
@@ -1069,6 +1085,10 @@ Coolmuster iPhone Data Recovery 是一款功能强大的软件，可让您为 iP
 
 PDF全能转换器
 
+## Copilot
+
+Github推出的自动代码补全工具
+
 ## CopyQ
 
 高级剪贴板管理器
@@ -1143,6 +1163,12 @@ Dashlane Premium 是适用于 Windows、Mac、Android 和 iOS  计算机、智�
 ## DataGrip
 
 jetbrain公司的数据库软件
+
+## DataHub
+
+实时数据治理
+
+DataHub 真是个生产力工具，它由 Linkedin 团队开源主要处理元数据管理，它可充当数据发现工具（即数据目录），来找出公司中存在哪些数据集，以及如何使用这些数据集进行测试。
 
 ## DearMob iPhone Manager
 
@@ -1285,6 +1311,12 @@ Ditto 是一款免费开源的剪贴板增强工具 。和系统自带的剪切�
 如果你的网页经常出现莫名跳转、出现广告等情况，有可能你的DNS被劫持、篡改，除了更换一个其他DNS，你还可以使用下面这款工具来锁定，它的使用方法很简单，在列表中选择你目前正在使用的DNS，然后点击install即可；
 
 相反，如果想解除锁定，点击Uninstall即可；
+
+## Docker-OSX
+
+Docker 跑 macOS
+
+Docker-OSX 让你快速在 Docker 中拉起一个 macOS 系统的工具。
 
 ## Document Tag Explorer
 
@@ -1758,11 +1790,23 @@ Flash被停用，Fliqlo的替代品
 
 还有一个我认为比较实用的是，可以直接打开运行中程序所在位置
 
+## flutter-tips-and-tricks（Github项目）
+
+Flutter·黑魔法
+
+flutter-tips-and-tricks 收录了 Flutter 和 Dart 使用小技巧，比如对图片的处理、CRUD 操作、百分比如何绘制等等实用技能。
+
 ## FnSync
 
 无缝同步电脑和手机
 
 FnSync 是一款能够实现电脑（Windows）和手机（Android）之间无缝同步的开源工具。在电脑和手机各自安装 FnSync  之后，两个设备需要在同一网络下进行连接，然后就可以实现无缝同步啦。不过 Android 10  以上的手机剪切板同步电脑因为系统限制需要多一步的分享操作，在下拉菜单栏或是文本选择菜单中可以直接进行分享，也相当方便。除了基本的剪切板同步之外，FnSync 也提供了手机通知同步到电脑、在电脑上管理手机文件以及手机拔电后电脑锁屏的功能。
+
+## Focalboard
+
+Notion替代
+
+从功能及界面上来看 focalboard 可以说是 Notion 翻版，类 Trello 的卡片式管理方式，可自托管在自己服务器上。
 
 ## Focusky
 
@@ -1919,6 +1963,12 @@ Gigapixel AI 是一款非常强大的 AI 图片无损放大工具，目前拥有
 ## Github Atom
 
 好看的文本编辑器，支持代码提示和自动补全
+
+## gitignore
+
+实用 .gitignore 文件模版
+
+`.gitignore` 文件会告诉 git 要忽略项目中的哪些文件或文件夹。gitignore 是 GitHub 官方提供的 `.gitignore` 文件模版，收录了大量实用 `.gitignore` 模版，而该项目也是目前拥有 125k star、70.1 fork，是个实打实的明星项目。
 
 ## GitMind
 
@@ -3112,11 +3162,23 @@ OneQuick 是一款功能非常强大的热键快捷工具 。运行 OneQuick 后
 
 简称glview，查看OpenGL版本信息
 
+## Open-IM-Server（Github项目）
+
+即时通讯解决方案
+
+OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端 SDK 开源即时通讯（IM）整体解决方案，可以轻松替代第三方 IM 云服务，打造具备聊天、社交功能的 App。
+
 ## Open Shell
 
 开始菜单美化工具
 
 Open Shell 是一款适用于 Windows 设备的开始菜单界面修改美化工具 。软件提供经典样式 、双栏样式 、Win7 样式等不同的风格样式 。还可以替换开始按钮图案 ，自定义修改开始菜单内容与背景等 。让你浏览文件更加舒适高效 。
+
+## Optick
+
+游戏分析器
+
+Optick 是一个超轻量级的 C++ 游戏分析器。它提供了有效性能分析和优化所需的所有必要工具的访问工具：仪表盘、Switch Contexts、采样、GPU 计数器。支持 Windows、macOS、Linux 和 Xbox。
 
 ## OwlOCR（Mac）
 
@@ -3626,6 +3688,12 @@ QtScrcpy 是基于我们之前推荐过的 Scrcpy 开源项目所开发出的跨
 ## QTTabBar
 
 资源管理器网页标签化、浏览器化
+
+## QuestDB
+
+高性能 SQL 数据库
+
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。它拥有支持  PostgreSQL 线协议的端点，使用 InfluxDB 线协议的模式无关的高吞吐数据获取方式，以及用于查询、批量导入和导出的  RESTAPI。整个代码库是用 Java 和 C++ 从头开始构建的，没有任何依赖性，并且 100%没有垃圾回收。
 
 ## Quick Cut
 
@@ -4146,6 +4214,12 @@ Sumatra PDF 是一款相当老牌的 Windows 开源 PDF 阅读器，相较于另
 平面设计工具，支持Windows，Linux，Mac
 
 可以设计房间布局
+
+## SwinIR
+
+图像修复
+
+SwinIR 是一个图片修复工具，相比其他的图片修复工具，SwinIR 拥有更高的还原度，修复后的图片更加的清晰。
 
 ## Switch
 
@@ -5225,6 +5299,10 @@ echo @(i for i in range(42))
 和知云出自一家公司，同样是翻译，但这个可以翻译其他格式的文档，优点像CopyTranslator
 
 ## {Y}
+
+## yabai
+
+yabai 是一个平铺窗口管理器，适用 macOS 系统，同 Linux 的平铺窗口管理器 awesome 类似，yabai 能自适应平铺你所有打开的窗口。如何自适应平铺窗口在一个屏幕也是一种艺术，你可以通过该项目来学习下如何处理自适应样式。
 
 ## YesPlayMusic
 
