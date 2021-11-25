@@ -1892,6 +1892,12 @@ FreeFileSync 是一款跨平台支持 Windows 、macOS 、Linux 设备的开源�
 
 Freeplane 是一款免费开源的轻量思维导图工具，源于 FreeMind  且对其进行了功能上的拓展与增强。思维导图的概念大家已然不陌生，如今也有很多成熟的思维导图工具可供选择，比如  XMind、MindManager、GitMind、MindMaster 等等。而 Freeplane  除了免费开源之外，在功能上比起这些软件来也毫不逊色。就导图中最重要的节点功能而言，Freeplane  支持多种节点类别与编辑样式，支持总结节点、浮动节点、连接线等等，也支持插入数学公式、表格、图片、HTML  等，操作过程种提供多种快捷键，使用起来相当方便。同时，在导出时也可选图片、文字、网页等多种格式。此外，Freeplane 是使用 ZIP  文件分发的 Java 应用，支持脚本执行，也支持相关插件用以拓展功能。唯一的不足大概是样式有些不够美观，但功能还是相当抗打的，目前  Windows、MacOS 以及 Linux 可用。
 
+## FSCapture
+
+截图工具
+
+支持长截图
+
 ## {G}
 
 ## Game Booster
