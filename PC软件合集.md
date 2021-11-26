@@ -264,6 +264,12 @@ Advanced Renamer 是一款非常强大的批量为文件进行重命名操作的
 
 Advanced SystemCare Ultimate 具备 Advanced SystemCare 专业版的所有功能，另外还增加了木马查杀、病毒防护等安全模块，相当于一个系统优化软件 + 一个病毒防护软件。
 
+## AfterCodecs
+
+AE&PR插件
+
+视频导出插件，功能同Voukoder差不多
+
 ## AG视频解析
 
 解析下载各大视频网站（腾讯、爱奇异、油管……）的视频
@@ -1966,6 +1972,12 @@ Smart Game Booster 是一个用于优化你电脑游戏性能的工具，它会�
 
 Genie Timeline Home 10 是一款高级备份软件，旨在满足日常家庭用户的数据保护需求。用户只需通过 3 个简单、直接的步骤进行设置，即可享受终身保护。
 
+## GeoGebra
+
+免费的课堂活动数字工具, 用于绘图计算, 几何作图, 白板协作等等
+
+数学函数绘图很好用
+
 ## GestureSign（微软商店）
 
 Windows 手势控制软件
@@ -2298,6 +2310,12 @@ Inkscape 是一款开源免费矢量图像编辑器，前身为 Sodipodi。在�
 ## InpaintPortable
 
 简单的P图工具，可以P掉一些不想要的地方
+
+## inRm3D
+
+英壬画板
+
+三维几何模型制作，可以用来绘制三维函数图像
 
 ## Intel Driver and Support Assistant（DSA）
 
@@ -2713,6 +2731,10 @@ Glary  Malware  Hunter，一个非常强大的Windows优化软件，包括系统
 ## Master PDF Editor
 
 可以代替Adobe Acrobat DC的PDF编辑器
+
+## Mathematica
+
+绘制数学函数图像，支持二元函数即三维图像
 
 ## Mathpix Snip
 
@@ -4814,6 +4836,18 @@ Ctrl+Shift+数字控制透明度；Ctrl+shift++控制当前窗口置顶，再按
 ## vlc
 
 强大的视频播放器
+
+## VoluMax
+
+AE插件
+
+照片3D化
+
+## Voukoder
+
+AE&PR插件
+
+视频导出插件，功能同AfterCodecs差不多
 
 ## Vovsoft Picture Downloader
 
