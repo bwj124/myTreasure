@@ -5231,6 +5231,12 @@ Windows File Recovery 是微软推出的一款完全免费的文件数据恢复�
 
 重点是UI简洁小巧，颜值高
 
+## Windows刘海屏
+
+来自B站up晨钟酱Official的小软件
+
+给你的Windows也变成刘海屏，同时可以让它蠕动起来
+
 ## WindowTabs
 
 多标签窗口管理器
