@@ -1109,6 +1109,8 @@ ContextMenuManager 是一款免费开源的 Windows  电脑右键菜单管理工
 
 桌面整理软件，只有5M，但功能很多，可以盒子套盒子（套娃）
 
+比较有特色的功能是桌面映射，可以选中一个文件夹，将其内容直接显示在桌面
+
 ## Coolmuster iPhone Data Recovery
 
 Coolmuster iPhone Data Recovery 是一款功能强大的软件，可让您为 iPhone/iPad/iPod 恢复已删除或丢失的数据，并从 iTunes 备份中恢复数据。有了它，您可以轻松恢复联系人、消息、消息附件。
