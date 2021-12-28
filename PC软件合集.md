@@ -204,6 +204,10 @@
 
 ## {A}
 
+## ABBYY finereader
+
+PC端支持OCR识别转WORD，手机端可以扫描文件用
+
 ## Aboboo
 
 英语听力口语练习神器
@@ -4689,6 +4693,15 @@ AI歌声合成软件。
 
 ## {T}
 
+## Tabby
+
+高颜值的终端工具。功能强大高度可配置，适用于 Windows、macOS、Linux 操作系统
+
+- 支持自定义主题和配色
+- 可配置快捷键和组合键
+- 集成了 SSH、Telnet 等连接
+- 分割窗口
+
 ## Tablacus Explorer
 
 可安装拓展的文件资源管理器
@@ -5914,6 +5927,12 @@ MultCloud是一款免费的应用程序，可通过它连接所有云驱动器�
 
 AOMEI MBackuper Pro是一款专为iPhone用户备份数据而研发的软件，其支持备份和传输多个iPhone数据，包括照片，视频，音乐，联系人和消息等
 
+## 傲软PDF编辑
+
+Apower PDF
+
+编辑PDF
+
 ## 傲软抠图
 
 抠图
@@ -6790,6 +6809,14 @@ CFF Explorer
 ## 清理2345弹窗
 
 吾爱论坛的小工具。可以清理电脑中2345系列软件的残留或者广告文件。
+
+## 轻闪PDF
+
+LightPDF
+
+ApowerSoft出品
+
+编辑PDF 工具
 
 ## 驱动精灵
 
