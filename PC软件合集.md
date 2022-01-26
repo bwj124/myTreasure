@@ -284,6 +284,38 @@ Advanced Renamer 是一款非常强大的批量为文件进行重命名操作的
 
 Advanced SystemCare Ultimate 具备 Advanced SystemCare 专业版的所有功能，另外还增加了木马查杀、病毒防护等安全模块，相当于一个系统优化软件 + 一个病毒防护软件。
 
+## Aerial（Mac）
+
+Aerial，是 Mac 电脑上知名的屏幕保护程序，内置的屏保来自 Apple TV，软件开源免费。
+
+最近 Aerial 更新到 3.0.0（最新版为 3.0.1），屏保视频增加了 4K HDR 的版本。
+
+HDR 的主要用于展现更多的暗部细节，进一步增强画面对比度，扩大色域，从而带来震撼的视觉冲击力。
+
+从官网下载压缩包，解压后可以得到一个后缀为 saver 的文件，双击 saver 文件，会自动添加到系统的「屏幕保护程序」。 
+
+选中 Aerial，点击右侧的「屏幕保护程序选项」，进入屏保的**初始化向导**，最开始需要选择屏保视频的格式。
+
+如果你的电脑还有比较大的空间，可以毫不犹豫选择 4K HDR。
+
+接着是设置屏保视频的存储和缓存，有 3 个选项：
+
+- 为我完成所有事情，并且不会用光我的硬盘空间，即自动下载新视频，取代原本的旧视频
+- 自动下载视频
+- 让我手动处理（推荐）
+
+之后就进入屏保程序的预览界面，还是英文。
+
+由于前面我选择了手动下载视频，因此这里展示的视频都是未下载的，需要点击右上角的「转发」图标，进入视频详情页下载。
+
+点击右侧的 Download now，可以下载对应的视频。
+
+如果你对内置的视频不满意，左侧栏可以切换到「**More Videos**」，点击底部的选项，从本地或者网络导入视频。 	
+
+切换到下方的设置选项，Cache 页面可以查看下载的视频占磁盘空间的大小。Advanced 页面可以更改视频的格式，从 4K HDR 更改为其他格式，可以缩小视频的体积。
+
+设置好之后，点击左下角的关闭按钮，回到下图的状态，将鼠标移动到右侧的预览图，点击「预览」查看屏保程序的效果，Amazing!
+
 ## AfterCodecs
 
 AE&PR插件
@@ -591,6 +623,14 @@ Axialis CursorWorkshop是专业的鼠标指针制作工具，支持自定义光�
 
 开源局域网传输工具，可传输大文件
 
+## B23Downloader
+
+B站视频下载器，不只是视频
+
+B23Downloader（使用 Qt C++ 开发），一款用来下载B站内容的工具，但是不局限于视频（投稿视频、番剧、电影、课程）还有直播和漫画也是可以下载的。
+
+和大多数哔哩哔哩下载器一样，默认只能下载720P 的画质，登录账号之后，就能下载到账号权限对应的质量视频，点击下载进度条左边的按钮还可以调用播放器边下边播，软件支持断点续传，下载的过程中关掉软件，打开之后可以选择继续下载。
+
 ## Background Eraser
 
 Apowersoft Background Eraser，傲软抠图是由傲软（APOWERSOFT）软件出品，可以自动识别，一键抠图换背景的软件，使用智能 AI  加持，能够快速扣人像、商品、公章、各种图形等，还能快速更换证件照底色，裁剪尺寸等，堪称证件照制作的小能手。
@@ -605,7 +645,7 @@ Backup4all 是保护您的数据免受部分或全部丢失的完美选择。它
 
 ## balenaEtcher
 
-制作启动盘
+制作启动盘，支持Windows、Mac、Linux
 
 ## Bandicam
 
@@ -1100,6 +1140,8 @@ CleanMyWechat 是一款适用于 Windows 设备的电脑微信数据清理工具
 
 ## Cloud Box
 
+CloudBox
+
 软件盒子，可以下载70+软件
 
 **装机工具**：首页分为装机工具、常用工具、其他、杂项四个板块，装机工具包括系统激活、注册表修复、禁止系统更新、驱动文件等等，光系统激活工具就可以实现400年激活。
@@ -1201,6 +1243,8 @@ CPU详细信息
 
 ## CRTubeGet
 
+CR TubeGet
+
 视频下载工具
 
 ## CrystalDiskInfo
@@ -1288,6 +1332,12 @@ jetbrain公司的数据库软件
 实时数据治理
 
 DataHub 真是个生产力工具，它由 Linkedin 团队开源主要处理元数据管理，它可充当数据发现工具（即数据目录），来找出公司中存在哪些数据集，以及如何使用这些数据集进行测试。
+
+## DateTime
+
+定时任务
+
+可以定时/倒计时关机，重启或执行指定程序
 
 ## DearMob iPhone Manager
 
@@ -1658,6 +1708,10 @@ Java IDE
 国产极简写作利器
 
 Effie 是一款轻量级 Markdown 极简写作软件，目前在 Windows、Mac OS、iOS、iPadOS 上可用。Effie  贯彻着极简美学，主界面为三栏式，侧边的菜单栏与管理面板可隐藏。支持 Markdown  语法，也提供了字数（符）统计和阅读时长统计。安装后自带使用教程，上手毫无难度。Effie 最大的特色则是支持正文内容与大纲内容混排，同时还可以将大纲一键转化为思维导图，可以说是梳理逻辑的好帮手了。此外，Effie  支持多平台云同步，也提供了图片、PDF、MD、DOCX 以及 Effie 独有的 Effie Sheet  格式这五种类型的导出。尽管作为一款今年年初才诞生的国产软件，Effie 仍然存在一些尚待完善的地方，但总体而言还是值得一试的喔~
+
+## EhPG小说下载
+
+搜索笔趣阁小说，并支持下载
 
 ## Emby
 
@@ -2379,6 +2433,14 @@ HEU KMS Activator，简洁高效的全能激活工具，适用所有Windows, Off
 	将图片后缀改成 .zip 解压就能继续使用，后缀改回来就能变回图片
 ```
 
+## Hitomi Downloader
+
+视频下载器
+
+这是一款“孙子”级别的下载器，爸爸是yt-dlp,爷爷是 youtube-dl  ，之前由于 youtube-dl 过于强大，引起了版权人士美国唱片业协会RIAA以DMCA  （数字千年版权法）投诉，称youtube-dl侵犯版权，迫于压力，之前还在 Github 上被封禁过，案件后来以 youtube-dl  没有违反DMCA 第 1201 项条款为结束，重新上架 Github,,然后 Github 还拨款 100  万美元设立了一个专项基金会专门处理这种事情。
+
+虽然它的名字只写了YouTube，但其实支持现在大多数的视频网站，知名的站点就包括700多个，其中就有国内外的主流平台。
+
 ## HitPaw Photo Enhancer
 
 HitPaw Photo Enhancer 是一款多功能且专业的照片编辑工具。使用这款照片增强软件，您可以轻松快速地放大图像，一键修复模糊的高质量图像。
@@ -2476,6 +2538,12 @@ ImageGlass 是一款适用于 Windows 电脑使用的免费且开源的多功能
 ## ImPan
 
 度盘不限速
+
+## InfixPDFEditor
+
+PDF编辑器
+
+小巧免安装
 
 ## Inkscape
 
@@ -2755,6 +2823,10 @@ Lenovo Quick Fix 是由联想官方出品的一系列为解决用户常见问题
 
 LightBulb 是一款非常实用的电脑护眼工具 。软件大小不到 4M ，功能丰富强大 。与之前安利过的 Iris 类似 ，通过降低屏幕的蓝光程度  ，从而减少对眼睛的伤害 。而且 LightBulb 是开源的软件 ，所有功能完全免费 ，还能根据日出日落的时间来自动调节屏幕参数  ，非常适合长时间使用电脑的人群使用 。
 
+## LightFrame
+
+B站up自制的桌面小组件包
+
 ## Lightroom
 
 Adobe 出品的图像处理与管理工具
@@ -3010,6 +3082,12 @@ MarkText 有三种编辑模式:打字模式、源代码模式和专注模式。�
 
 支持的主题也非常丰富多样：
 
+## MAS
+
+Microsoft-Activation-Scripts
+
+微软激活脚本，支持系统和Office
+
 ## Master PDF Editor
 
 可以代替Adobe Acrobat DC的PDF编辑器
@@ -3095,6 +3173,22 @@ LaTex
 ## MisakaTranslator
 
 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
+
+## MKVtoolnix
+
+MKV封装工具，音频提取工具
+
+MKVtoolnix，是一款视频、音频、字幕等格式的封装工具，Mkvtoolnix是目前功能最齐全的Matroska合成器，几乎可以将所有的媒体格式封装成MKV格式。为什么要封装成MKV格式呢？看到那些多声轨、多字幕的高清MKV大片，就知道为什么要封装成MKV格式了。
+
+可以使用MKVtoolnix和gMKVExtractGUI这两个工具提取无损音频：
+
+下载后，将gMKVExtractGUI复制到MKVtoolnix的文件夹中，这两个工具一起使用。可以理解为：gMKVExtractGUI为MKVtoolnix的一个插件。
+
+具体的：
+
+1、首先使用MKVtoolnix工具，将媒体封装成MKV格式；
+
+2、使用另一个工具“gMKVExtractGUI”从MKV格式中提取音频或视频，这样得到的均为原始音频或视频。
 
 ## MobiKin Backup Manager for Android
 
@@ -3761,6 +3855,18 @@ PasteEx 是一款操作简单 、功能实用且强大 、开源免费的剪切�
 
 激活Office
 
+## Pazera
+
+音视频提取
+
+Pazera是一款免费的音频、视频提取软件，可以进行批量提取，软件为绿色便携版，干净方便。从视频文件中提取出音频格式，有mp3、ac3、ogg、wav等格式。在输出格式中，如果选取“尝试提取原始音频流”，则可以提取原声，不会损失音质，功能非常强大。
+
+该程序允许从音频和视频文件中提取音轨，而不会损失音质或转换为 MP3、AAC、AC3、E-AC3、Ogg-Opus、Ogg-Vorbis、WMA、FLAC、M4A-AAC、M4A-ALAC、 WV ( WavPack )、MKA-Opus、CAF-Opus、AIFF 或 WAV。
+
+支持的视频格式包含：AVI, DivX, XviD, MPEG, MPG, WMV, ASF, MOV, QT, FLV, SWF, MP4, M4V, 3GP, 3G2, RM, RMVB, MKV, VOB, VCD DAT, OGM, AMV to MP3, AAC, AC3, WMA, FLAC, OGG  Vorbis, OGG FLAC or WAV；
+
+支持的音频格式包含：WAV, MP3, AC3, AAC, M4A, MPC, MPA, MP2, WMA, FLAC, SHN, APE, OGG, WV, AMR to MP3, AAC, AC3, WMA, FLAC, OGG Vorbis,OGG FLAC or WAV
+
 ## PC-3000
 
 数据恢复
@@ -4161,6 +4267,12 @@ Python IDE
 ## PyDebloatX
 
 卸载Windows自带软件
+
+## PyRPA
+
+项目灵感来自B站UP主：“不高兴就喝水”的WaterPRA，是升级版
+
+更加方便可用，有图形界面
 
 ## Python-Mini-Projects（Github项目）
 
@@ -4702,7 +4814,7 @@ SpaceSniffer能分析磁盘，生成一个方块表格，表格越大，表示�
 
 ## Specinker
 
-音频桌面
+音频桌面，很帅
 
 ## SpeedManager
 
@@ -5267,6 +5379,12 @@ useful-sed 是作者整理的实用脚本和 pattern 项目，为了防止以后
 
 这是贴吧一位电子书爱好者的作品，他的开发目的很简单，就是觉得目前的转换软件太难用，于是就自己写了一个。可以一键将txt转换成epub和mobi两种格式，自动分成二级目录（卷 章）等
 
+## vcredist
+
+VisualCppRedist AIO
+
+github项目，微软运行库合集
+
 ## VectorMagic
 
 位图转为矢量图
@@ -5664,6 +5782,10 @@ Windows的包管理工具
 十六进制编辑软件
 
 可以用来做数据恢复，不过需要强的专业知识
+
+## WinMD5Free
+
+windows下的MD5检验工具
 
 ## WinMrt
 
@@ -6372,6 +6494,10 @@ TickTick，Windows和安卓平台通用的TODO工具
 
 高清观影
 
+## 抖音
+
+PC端抖音
+
 ## 抖音采集工具
 
 吾爱大佬制作，可以批量下载抖音某用户所有视频
@@ -6621,6 +6747,12 @@ PC端是只能在局域网下，但是网页端有网即可，不需要局域网
 
 ## [J]
 
+## 集福宝
+
+支付宝集五福
+
+有很多福字可供扫
+
 ## 记乎
 
 高效学习记忆工具
@@ -6779,6 +6911,12 @@ Captura 是一款非常小巧的开源的 Windows 录屏工具 ，软件完全�
 
 fq
 
+## 科码秋图片无损放大器
+
+图片放大
+
+图片变高清
+
 ## 稞麦综合视频站下载器
 
 一款视频下载器
@@ -6790,6 +6928,10 @@ fq
 ## 酷狗铃声制作专家
 
 制作铃声
+
+## 夸克网盘
+
+夸克浏览器推出的网盘，和阿里云盘很像
 
 ## 快贴
 
@@ -6965,6 +7107,10 @@ github开源的第三方蓝奏云客户端
 可快速裁剪、分割、合并视频，制作画中画视频、分屏视频、特效视频等等。
 
 除此之外，软件提供了潮流的音乐&音效库、动画、滤镜、文字、转场等特效，在剪辑视频时可任意使用，导出超清无损画质视频。
+
+## 迷糊蛋子云搜神器
+
+搜书小工具
 
 ## 米卓同屏助手
 
@@ -7452,6 +7598,10 @@ Universal Viewer Pro
 
 管理邮箱
 
+## 网易云课堂课程下载器
+
+下载网易云课堂课程，但是只能免费的
+
 ## 网易云音乐解锁灰色
 
 解锁网易云无版权和VIP歌曲
@@ -7900,3 +8050,4 @@ Windows 桌面日历
 
 
 
+shu 
