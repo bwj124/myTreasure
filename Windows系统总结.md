@@ -811,7 +811,11 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters 主
 
     删除注册表中的`计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{3C6C4AE3-9AE3-436F-BE29-E1C2F38A5EEC}`
 
+    或 `计算机\HKEY_USERS\S-1-5-21-2747554322-978073548-3710153092-1003\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{3C6C4AE3-9AE3-436F-BE29-E1C2F38A5EEC}`
+    
     (建议同时删除`计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{3C6C4AE3-9AE3-436F-BE29-E1C2F38A5EEC}`)
+    
+    （具体就是搜索{3C6C4AE3-9AE3-436F-BE29-E1C2F38A5EEC}，然后删除，一直到搜索不到为止）
 
 ### Window去除锁屏界面乱七八糟的提示
 
