@@ -1060,3 +1060,12 @@ tencent-custom.json(自定义规则)
 
 1. 浏览器安装油猴脚本-计时掌控者
 2. 爱奇艺万能联播（登录百度网盘）
+
+### 在电脑浏览器打开只能在微信内打开的链接
+
+打开开发者选项，将视图换为手机，然后改UA（User Agent, 一般在切换视图后浏览器的右上角的设置中）为：
+
+```
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5660 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MicroMessenger/4.5.255
+```
+
