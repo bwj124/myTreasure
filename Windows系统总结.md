@@ -1069,3 +1069,12 @@ tencent-custom.json(自定义规则)
 Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5660 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MicroMessenger/4.5.255
 ```
 
+### Edge浏览器下载插件出现`Download Interrupted`
+
+1. 打开：C:\Windows\System32\drivers\etc\hosts
+2. 在 hosts 文件最后面添加：
+
+```
+131.253.33.219 edge.microsoft.com
+131.253.33.219 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+```
