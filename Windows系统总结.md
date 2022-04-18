@@ -1078,3 +1078,15 @@ Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5660 Build/GINGERBREAD) AppleWe
 131.253.33.219 edge.microsoft.com
 131.253.33.219 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 ```
+
+### 安卓模拟器启动不了以及和WSL的妥协方案（每次都到50%，报错g_bGuestPowerOff fastpipeapi.cpp:1161）
+
+首先原因是由于和Windows自带的Hyper-y虚拟机冲突，因为Hyper-y和其他大多虚拟机都冲突（VirtualBox、VMWare）
+
+所以要想启动虚拟机或者安卓模拟器，就要关闭Hyper-y
+
+首先，我们将wsl切换到1版本，可以使用`wsl --set-default-version 1`切换所有版本（我的这个指令不好用）或者`swl --set-version Ubuntu 1`（这个好用）来切换到1版本，切换后记得用`wsl -l -v`检查一下是否真的切换了。因为WSL1不需要Hyper-y，这样一来WSL还可以使用。
+
+然后使用指令`bcdedit /set hypervisorlaunchtype off`关闭hyper-y（开启的话将off改成auto），并且在程序和功能的启用或关闭Windows功能里，关闭虚拟机平台。
+
+最后重启即可。
