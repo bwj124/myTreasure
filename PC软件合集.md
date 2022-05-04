@@ -243,6 +243,10 @@
 
 7+ Taskbar Tweaker 是一款小巧且强大的 Windows 电脑任务栏增强工具，目前支持 Win7、Win8、Win8.1、Win10  等系统使用。软件操作与配置都非常简单，它不仅能帮你轻松隐藏开始菜单、显示秒钟时间、将所有窗口按照自定义规则分组与合并，还支持通过配置鼠标按键与滚轮操作，来实现快速切换窗口、滚轮修改音量、双击隐藏任务栏、中键单击启动任务管理器等数十种快捷指令操作。此外，软件完全免费且无广告弹窗，支持开机自启，让你的任务栏在简洁美观的同时，能更加高效实用。
 
+## 7-zip美化
+
+7-zip美化工具
+
 ## 999玫瑰花
 
 打开之后会让你的屏幕布满鲜艳的玫瑰花
@@ -505,6 +509,10 @@ AnyMP4 Screen Recorder 可帮助您录制屏幕移动和操作。它是一个功
 全文搜索工具
 
 AnyTXT Searcher 是一款适用于 Windows 平台的文件搜索神器 。相比 Everything 和 Listary  ，这款软件更加小巧便捷 ，而且支持超级强大的文本内容搜索 。当你不知道文件名 ，只是模糊记得文件内的部分文本 ，都可以使用 AnyTXT  Searcher 来快速查找到具体的文件名和位置 ，并支持分类搜索 txt 、word 、pdf 、ppt 等多种格式文件  ，让你查找文件快人一步 。
+
+## AnyViewer
+
+远程桌面控制软件，跟todesk差不多，目前免费
 
 ## AOMEI Backupper Professional
 
@@ -1225,6 +1233,14 @@ CleanMyWechat 是一款适用于 Windows 设备的电脑微信数据清理工具
 剪贴板管理器
 
 剪切板记录永久存储
+
+## clonezilla
+
+再生龙
+
+liunx  GHOST
+
+liunx备份还原系统，推荐使用clonezilla(再生龙)，clonezilla是一款由台湾同胞开发的开源软件。
 
 ## Cloud Box
 
@@ -2116,6 +2132,18 @@ FastCopy 是一款非常强大的能够让你快速拷贝文件的电脑软件 �
 17.支持随意调整固定窗口大小
 
 18.支持“最近访问”，快速找到刚才打开文件/文件夹
+
+## FastGithub
+
+支持WIN／Mac／Linux
+
+steamcommunity 302 这款加速工具很不错但缺点是只有Windows端
+
+FastGithub 则是另一款同样基于反代来加速 Gtihub 访问的工具，支持WIN／Mac／Linux三端，还能在docker上一键部署：https://github.com/dotnetcore/FastGithub
+
+Windows端的话，下载后双击即可运行，软件没有程序界面，直接就是跑的命令行，所以开启之后不要关闭命令行窗口！
+
+而 FastGithub 除了可以加速访问 Gtihub ，最大的优势是它顺便还能助你直连V2EX
 
 ## Fast Stone Capture
 
@@ -5468,6 +5496,10 @@ SmartWindows 是一款非常实用且强大的适用于 Windows 系统的电脑�
 
 彻底删除流氓软件，流氓软件名单见[gitee](https://gitee.com/softcnkiller/data/graph/master) 
 
+## Solidworks
+
+功能强大组件繁多， Solidworks有功能强大、易学易用和技术创新三大特点，这使得SolidWorks 成为领先的、主流的三维CAD解决方案。SolidWorks 能够提供不同的设计方案、减少设计过程中的错误以及提高产品质量。SolidWorks 不仅提供如此强大的功能，而且对每个工程师和设计者来说，操作简单方便、易学易用。
+
 ## Sordum
 
 解决各种 Windows 小痛点
@@ -5640,6 +5672,14 @@ StartIsBcak 是一款需付费使用的 Windows 电脑开始菜单美化与增�
 其中有提到支持加速访问功能，其够使 Steam 社区、 Github 、谷歌验证码等国内难以访问的网页正常访问
 
 除了功能给力之外，Steam++支持移动端与电脑端版本，并且会根据电脑的已有配置提供推荐的下载项，并且有免安装版本，做到了即开即用.
+
+## steamcommunity 302
+
+羽翼城大佬后来又开发的 steamcommunity 302 就是通过反代来加速访问 Github 等网站
+
+软件可以到这里下载：https://www.dogfight360.com/blog/686/
+
+在不遇到问题的情况下可谓想当无脑，一键化使用（只支持WIN）
 
 ## Stiky Notes
 
@@ -6106,6 +6146,10 @@ https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/m
 
 通俗来讲就是一个万能打开器，支持的格式相当广泛，图像、视频、文本、表格、网页、PDF等等，常见的文件类型都是它的菜。
 
+还可以进行软件图标的提取
+
+## Universal Viewer
+
 ## uPDF
 
 PDF处理工具，还可以进行OCR识别
@@ -6155,6 +6199,12 @@ UniversalViewer 是一款非常强大的适用于 Windows 系统的万能文件�
 插上U盘自动按需复制文件
 
 用于在插上目标U盘后自动按需复制该U盘的文件。"备份&偷U盘文件的神器"
+
+## UsbEAm Hosts Editor
+
+多平台hosts修改
+
+由羽翼城大佬开发的知名项目UsbEAm Hosts Editor本来是用于改善 Steam、暴雪、育碧、Microsoft Store 等游戏平台的访问与下载速度，但顺便也有支持 Github
 
 ## USB Safely Remove
 
@@ -6510,6 +6560,21 @@ Windows推出的调试工具，可以用于查看蓝屏信息
 
 Win10管理工具，可自定义Win10
 
+## Windows 11 Fixer
+
+Windows11Fixer
+
+系统优化工具
+
+Windows 11 Fixer可以用于Windows11的设置优化，用来更改大量的Windows设置(包括安全设置)，卸载不需要的Windows软件，并安装大多数你想要或需要的程序。
+
+自定义任务栏的外观。
+
+根据您的喜好调整右键上下文菜单。 — 修改文件资源管理器，并轻松调整文件和文件夹选项。
+调整大量的Windows设置，包括大量的隐私和安全设置。 — 卸载不需要的Windows软件，包括Cortana和Microsoft Edge。
+安装额外的程序，以帮助增强和定制Windows 11的喜好。
+安装最常用的程序，包括互联网浏览器、游戏启动器、音频和视频流等。
+
 ## Windows 11 Manage
 
 继Windows10Manager后的win11管理器
@@ -6819,6 +6884,12 @@ WonderFox Photo Watermark是一个全功能的图片水印工具，可以给图�
 ## WonderFox Video Watermark
 
 WonderFox Video Watermark 帮助用户在视频和剪辑中插入徽标，以表明它们是受版权保护的视频和剪辑。通过使用 WonderFox 视频水印，视频和剪辑将被验证为您的，当其他用户使用它时，他们必须获得您的许可。
+
+## Workona Tab Manager（浏览器插件）
+
+把标签页归类到工作区
+
+Workona Tab Manager 是一款 Chrome  浏览器插件，主要功能是管理、分类标签页。当你工作时，各个工作区分散在浏览器中，无序的标签页布局也会导致思维的混乱，降低效率。而 Workona  可以将它们整合在一起进行一键式协作。你可以用它管理页面，划分不同的工作区，分类不同情景下的行为，也可以给网页加注释，或提醒自己稍后再读。Workona 还支持团队协作，通过共享工作区跟踪资源，与同伴实时协作等。Workona 也有 iPhone、iPad  客户端（安卓版计划推出中），和电脑端自动同步，实现了在不同场景的下自由浏览网页，但需要科学上网噢。
 
 ## World Creator
 
@@ -7191,9 +7262,17 @@ Apower PDF
 
 百灵快传是一款免费且开源的局域网文件传输工具 。它基于 Go 语言 ，拥有 Windows 、macOS 、Linux 客户端 。启动软件后 ，电脑会显示一个命令提示符  ，并弹出一个浏览器窗口 ，我们只需要在电脑端打开百灵快传 ，在其他设备上打开浏览器 ，通过扫码或者链接的方式进入百灵快传就可以进行文件传输 。
 
+## 百页搜
+
+吾爱出品的搜索吾爱软件工具
+
 ## 暴风影音
 
 有年代的影音播放器
+
+## 报刊下载
+
+下载报刊
 
 ## 宝塔
 
@@ -9034,7 +9113,21 @@ Word插件，公文排版
 
 多种来源，有发现，可搜索；看文字，看小说，看图片，看壁纸，看漫画，看视频；听故事，听有声，听音乐，听英语   
 
-> 书源 ：https://cdn.jsdelivr.net/gh/mabDc/eso_source/manifest      
+本身软件不提供资源，需要添加视频源后才能进行使用
+
+**其除了视频，还能看小说、看漫画**，并且作者到现在都还在**持续维护软件＋外置资源！**所以你只需要稍微懂点使用步骤，就能畅想这款神器了![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+
+需要注意的是亦搜从未有任何官网和公众号，只在其的频道、群和Github上更新：https://github.com/mabDc/eso
+
+> 书源 ：https://cdn.jsdelivr.net/gh/mabDc/eso_source/manifest     
+>
+> 规则：
+>
+> > 1. https://cdn.jsdelivr.net/gh/mabDc/eso_source/manifest
+> > 2. https://gcore.jsdelivr.net/gh/mabDc/eso_source@master/manifest
+> > 3. https://cdn.staticaly.com/gh/mabDc/eso_source/master/manifest
+>
+>  
 
 ## 音视频流媒体权威资料整理
 
@@ -9193,4 +9286,3 @@ Windows 桌面日历
 ## 字由
 
 免费可商用字体
-
