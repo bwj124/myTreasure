@@ -1338,6 +1338,10 @@ CopyTranslator 是一款开源的电脑翻译工具 。它不仅支持 Windows �
 
 适用于C++算法刷题的代码编辑器
 
+## CPUkowtow
+
+磕头小人监控CPU，类似于RunCat
+
 ## CpuZ
 
 CPU详细信息
@@ -5614,6 +5618,12 @@ AI音轨分离，可以分离人声和伴奏
 
 数据分析软件，支持统计学分析运算、数据挖掘、预测分析等
 
+## SPXZQ
+
+直播录制
+
+SPXZQ是一款无需打开播放页面，即可后台录制各大主流直播平台主播视频的免费视频录制软件，目前已支持虎牙、斗鱼、企鹅电竞、YY、Bilibili、CC直播、6间房、娱乐、么么直播、一直播、酷狗直播、战旗直播、触手直播、快手直播、映客直播、陌陌直播、NOW直播等直播平台
+
 ## Spyrix Personal Monitor
 
 在实模式下用户活动的隐形远程监控
@@ -6958,6 +6968,10 @@ XenArmor Website Blocker Pro 2021  是一款多合一软件，可一键立即阻
 ## XinBSConceptClock
 
 桌面时钟
+
+## Xmeters
+
+CPU监控软件
 
 ## XMind
 
