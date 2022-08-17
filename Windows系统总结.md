@@ -1090,3 +1090,17 @@ Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5660 Build/GINGERBREAD) AppleWe
 然后使用指令`bcdedit /set hypervisorlaunchtype off`关闭hyper-y（开启的话将off改成auto），并且在程序和功能的启用或关闭Windows功能里，关闭虚拟机平台。
 
 最后重启即可。
+
+### 电脑Wifi查看
+
+1. 使用工具：**电脑wifi密码查看器**或**wifi密码查看器**
+
+2. 命令行操作
+    运行cmd，然后输入命令“**netsh wlan show profiles**”，按回车，即能显示所有的已连接的wifi名称。
+
+    最后输入命令“netsh wlan show profiles name="**wifi名称**" key=clear” 回车.
+
+    比如我的wifi名称是"iphone"，那么输入：netsh wlan show profiles name="**iphone**" key=clear，下拉找到密码即可。
+
+    如果你能记住wifi名称，直接输入令“netsh wlan show profiles name="**wifi名称**" key=clear，即可。
+
