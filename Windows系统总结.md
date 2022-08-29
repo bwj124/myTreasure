@@ -1104,3 +1104,12 @@ Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5660 Build/GINGERBREAD) AppleWe
 
     如果你能记住wifi名称，直接输入令“netsh wlan show profiles name="**wifi名称**" key=clear，即可。
 
+### Win10校园网宽带连接频繁秒断
+
+宽带连接连上过后很快就断开。
+
+打开注册表，打开路径：
+
+`计算机\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\NlaSvc\Parameters\Internet`，将`EnableActiveProbing`的数值改成0（默认是1）
+
+重启
