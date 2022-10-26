@@ -1168,5 +1168,7 @@ mklink /J "JetBrains" "E:\userMirror\AppData\Local\JetBrains"
 
 **2.** 等待克隆完成之后，您可以将新电脑硬盘取出并安装到新电脑上，开机即可完成系统迁移任务。
 
+### 找破解软件（Office）的注册码、激活码
 
+在搜索引擎搜索中搜索时加关键字 94fbr
 
