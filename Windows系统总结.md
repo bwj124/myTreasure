@@ -1172,3 +1172,20 @@ mklink /J "JetBrains" "E:\userMirror\AppData\Local\JetBrains"
 
 在搜索引擎搜索中搜索时加关键字 94fbr
 
+### 数位板做笔记
+
+分为两种：
+
+1. 纯写字：OneNote、Microsoft Whiteboard、Xournal++
+2. 在PDF上做批注：PenBook、Xournal++、PDF-XChange、Drawboard PDF（高级功能收费） 、PDF Reader by Xodo（高级功能收费）
+
+OneNote也可以通过插入图片来做笔记，但是没法直接在PDF上标注
+
+Xournal++最强大，切开源，支持全端，唯一缺点就是界面没那么好看
+
+PDF-XChange很不错，和Xournal++差不多，但是不能在空白页面做笔记
+
+PenBook界面简洁好看
+
+
+
