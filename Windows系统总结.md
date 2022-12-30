@@ -1288,3 +1288,63 @@ https://pan.lanzou.com/b00qdqhwf 密码:ciin
 **注意：使用上述制作好的ISO安装完系统，进入桌面后，会弹出批处理窗口进行设置，稍等一会设置完毕，则需要重启一次才能生效。**
 
 以下是我用[虚拟机Vmware](http://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&mid=2448162723&idx=1&sn=0991d45bfb4b85f9d16672d7821c4c15&chksm=8b540347bc238a519d57999630dca93126bff44961c33a0649e6c906899a081f4113c04a06e4&scene=21#wechat_redirect)测试的，好家伙，直接给装了一套虚拟机的主题~
+
+### Win10安装安卓子系统
+
+> 摘自知己而知彼
+
+Windows11上的一大亮点是WSA（安卓子系统），根据微软的介绍仅支持Windows11系统，目前微软已经向多个国家推送，直接在应用商店搜索WSA进行安装即可。针对暂未推送的国家，可以采用离线安装的方式，此前我多次介绍过[如何离线安装WSA](http://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&mid=2448160712&idx=1&sn=8f7ce679254fa99302f4f4ceb7fb9a44&chksm=8b540b2cbc23823afc60209c705b6d304971ad0f588cbf2ab55f758bee71da45e332bd8952c5&scene=21#wechat_redirect)。
+
+最近Github上的一个开源项目，可以使Win10用户安装WSA，目前Win10用户众多，这是一个很不错的消息。不过，据作者称，需要**Win10** **Build 19045.2311(64位)**版本及以上的才可以。(根据网友反馈 19043.2311、19044.2311版本也可)。也就是说需要2022年12月最新版的ISO：[点击下载](http://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&mid=2448163392&idx=1&sn=85936adae90e640bb793c54a9f0459f4&chksm=8b53fea4bc2477b27d9238da2c6580c2c386f715007333d39ddeeeb332acca7dabd19256d541&scene=21#wechat_redirect)。
+
+Github访问速度慢的，可以看看[我昨天写的文章](http://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&mid=2448163463&idx=1&sn=581dd8b5b96955d7f159ade591a2d25a&chksm=8b53fe63bc247775f33b03755048fbaeeca31eb257cb99c4130885fc60910c5c48e933222d30&scene=21#wechat_redirect)。Win10安装WSA的整个过程操作下来还是要费一番功夫的，为了节省大家的时间和操作失误的可能，我用最简单的方法给大家介绍一下整个流程，供不同需求的同学使用。
+
+1、下载WSA APPX安装包(可跳过)
+
+首先下载WSA APPX安装包，在Linux环境中下载并编译集成Magisk。本文用的APPX安装包，来自开源项目：
+
+https://github.com/LSPosed/MagiskOnWSALocal
+
+对于一般用户来说，可以在虚拟机中安装Ubuntu，然后按照该项目介绍的方法下载、编译。对于不熟悉Linux的小伙伴儿来说，确实有一些繁琐。为了省去麻烦，我已经下载好了，大家直接在下文的网盘中下载即可。
+
+2、集成WSA补丁(可跳过)
+
+根据cinit大神分享的方法，我们把上一步下载的WSA APPX安装包集成WSAPatch补丁。这一步是在Windows上操作，想了解制作原理的，大家可以参照如下项目地址：
+
+https://github.com/cinit/WSAPatch
+
+集成补丁的方法十分简单，就是把WsaPatch.dll和icu.dll文件复制到WsaClient 文件夹中，然后修改一下AppxManifest.xml就操作完成了。
+
+我已经修改并集成好了，大家可以直接下载集成了Magisk+WSAPatch补丁的安装包。上文可以都不看，之所以介绍这么多，主要是以后有新版本了，大家可以自己去下载，提供方法比直接投喂更重要🤣。
+
+**WSA APPX安装包下载：**
+
+https://pan.baidu.com/s/1afWp6QHCl_x7T4ttCfgP1g 提取码: 3m6b
+
+备注：版本号2211.40000.10.0。另外提供了支持库，备用。
+
+3、Win10安装WSA
+
+**一、前提条件（配置虚拟化条件）：**
+
+在控制面板→程序→启用或关闭Windows功能，开启以下功能：Hyper-V(可以不开启)、虚拟机平台(必须开启)。然后重启电脑。
+
+**二、安装WSA**
+
+将第2节中下载的“WSA APPX安装包(含Magisk+WSAPatch)”解压，然后把文件夹里的所有文件全部复制到你想安装的位置。例如C:\WSA
+
+双击运行WSA目录下的Run.bat，稍等片刻即可成功安装！
+
+如果遇到安装失败的情况，很可能是缺少支持库导致，上文网盘里提供了支持库，双击即可安装。
+
+**三、安装APP**
+
+安装安卓APP可以使用第三方工具WSAToolbox，这个工具也是开源的。项目地址：
+
+https://github.com/makazeu/WsaToolbox/releases
+
+安装完WSA之后的操作，与Win11上没有区别，大家可以参考我以前写的文章：[点击进入](http://mp.weixin.qq.com/s?__biz=MzA3Nzg3NjYxOQ==&mid=2448160712&idx=1&sn=8f7ce679254fa99302f4f4ceb7fb9a44&chksm=8b540b2cbc23823afc60209c705b6d304971ad0f588cbf2ab55f758bee71da45e332bd8952c5&scene=21#wechat_redirect)。
+
+**总结**
+
+本文看上去内容很多，主要给大家介绍各种软件的来源，供喜欢研究的小伙伴食用。其实大家要做的很简单：1.下载集成了WSAPatch补丁的安装包；2.在控制面板中，启用虚拟机平台；3.解压安装包，双击Run.bat，大功告成！
