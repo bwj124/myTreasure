@@ -721,11 +721,9 @@ Windows管理工具，不同于cmd和powershell的运行环境，可以做很多
 4. 双击文件ksomisc.exe
 
 5. 点击高级
-   <img src="C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20200522181450700.png" alt="image-20200522181450700" style="zoom:50%;" />
-
+   
 6. 点击其他选项，去掉对勾
 
-   <img src="C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20200522181536531.png" alt="image-20200522181536531" style="zoom:50%;" />
 
 ### 文件夹无权限访问
 
@@ -1181,7 +1179,7 @@ mklink /J "JetBrains" "E:\userMirror\AppData\Local\JetBrains"
 
 OneNote也可以通过插入图片来做笔记，但是没法直接在PDF上标注
 
-Xournal++最强大，切开源，支持全端，唯一缺点就是界面没那么好看
+Xournal++最强大，切开源，支持全端，唯一缺点就是界面没那么好看，而且做好的标注是以它自己的格式保存下来的，没办法保存到PDF上
 
 PDF-XChange很不错，和Xournal++差不多，但是不能在空白页面做笔记
 
@@ -1420,3 +1418,9 @@ https://github.com/makazeu/WsaToolbox/releases
 除了上面的特殊情况以外，其他的家庭版均可以使用下面的通用密钥进行升级。当然这枚密钥也仅仅是升级，并不能激活。具体的操作方法与上一节完全相同，只是使用的密钥不同而已，步骤不再赘述。
 
     专业版通用密钥：VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+### 宽带连接命令行-自动任务连接宽带
+
+rasdial [宽带名] [用户名] [密码]
+
+如果需要自动启动，可以加入任务计划程序里
