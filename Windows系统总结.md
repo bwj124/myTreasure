@@ -1618,5 +1618,11 @@ WPS教育版
 
 `reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f`
 
+### 火狐浏览器画面闪烁（尤其在鼠标经过时）
 
+切换硬件加速的开启或禁用（网上说默认是开启（true），我的默认是false，切换成true反正可以了）
+
+方法：
+
+地址栏输入about:config，查找layers.acceleration.disabled，双击切换
 
