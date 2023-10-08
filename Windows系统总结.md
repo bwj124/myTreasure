@@ -1626,3 +1626,217 @@ WPS教育版
 
 地址栏输入about:config，查找layers.acceleration.disabled，双击切换
 
+### [F搜](https://fsoufsou.com)显示白屏，没有页面元素
+
+原因是因为它的[资源网站](https://static.hetaousercontent.com)的证书到期了，所以浏览器默认阻止该网站的响应
+
+只需要访问一下[资源网站](https://static.hetaousercontent.com)，也就是浏览器地址栏输入网址：https://static.hetaousercontent.com，然后点击接受风险，继续以访问之类的选项即可
+
+之后就可以正常使用了
+
+### 申请谷歌帐号/邮箱时，中国大陆号码无法验证
+
+地区改成美国(US)即可
+
+### WechatVideoDownloader下载失效解决
+
+**WeChatVideoDownloader**由网友“**lecepin**”开发，与大多数视频号下载工具只支持 Windows 不同，软件 Windows 和 Mac 双支持。
+
+并且，它还是**开源**的。
+
+遗憾的是，该项目在 2022 年 5月停止了更新，好在软件的嗅探功能，依旧有效。
+
+那要如何它来下载视频号呢？不是已经失效了吗？下面是复活的方法。
+
+**1、安装证书**
+
+下载打开软件后，会提示**安装证书**，软件采用了代理拦截请求的识别方式，所以**软件需要安装证书及开启代理**。
+
+**注意**：如果一直抓取不到数据，请暂时关闭其它“**魔法**”软件。
+
+Mac 的版本，则需要将信息复制到“**终端**”以确定安装证书。（要输入开机密码）
+
+**2、打开视频号**
+
+视频号的交互逻辑，是鼠标经过视频封面时，就会播放。
+
+这时软件就会自动嗅探下载，如果你不想有太多的嗅探结果，**注意鼠标不要划过不想下载视频的封面。**
+
+如果有太多链接，可以点“**清空**”按钮，刷新来重新获取。
+
+**3、获取嗅探链接**
+
+由于软件**许久没有更新**，在这一次视频号升级后，虽然软件依旧可以嗅探，但下载下来的**视频却无法播放了**。
+
+这时，**三次点击链接，然后按 Ctrl+C 复制。**
+
+这时，只需要把复制得到的链接，从 **20302** 改为 **20304**，即可获取原视频链接，比如：
+
+原来复制的链接：
+
+```python
+https://finder.video.qq.com/251/20302/stodownload?encfilekey=6xykWLEnztKcKCJZcV0rWCM8ua7DibZkibqXGfPxf5lroyqume2xib2yxib7glOA4wqNXrm5o1WFM1OWIXSjr1rBYgEGHkQhaSWh19rtvgTMgn1ViazU1Z3sb5WSKZXDAJ9aK8RNFGicUMSxtkyIWBibiaMXctcYb733iaUyWIHWSv0GvaeA&a=1&bizid=1023&dotrans=0&hy=SH&idx=1&m=553b215c632b0f72db73b5604399ab23&web=1&token=6xykWLEnztK4PX62Ov4aiceeGWsFwiauM0qP9tj11yLYWtghpQYRePGFAoP0oVJXvzWfQ78dSzxibGJiceDV83FEiaoMWaiahREE86t5Jgr7M6c3c4zlHusQpav602iaZicx5gHJ&fexam=1&X-snsvideoflag=xV6
+```
+
+
+更改后的链接：
+
+```python
+https://finder.video.qq.com/251/20304/stodownload?encfilekey=6xykWLEnztKcKCJZcV0rWCM8ua7DibZkibqXGfPxf5lroyqume2xib2yxib7glOA4wqNXrm5o1WFM1OWIXSjr1rBYgEGHkQhaSWh19rtvgTMgn1ViazU1Z3sb5WSKZXDAJ9aK8RNFGicUMSxtkyIWBibiaMXctcYb733iaUyWIHWSv0GvaeA&a=1&bizid=1023&dotrans=0&hy=SH&idx=1&m=553b215c632b0f72db73b5604399ab23&web=1&token=6xykWLEnztK4PX62Ov4aiceeGWsFwiauM0qP9tj11yLYWtghpQYRePGFAoP0oVJXvzWfQ78dSzxibGJiceDV83FEiaoMWaiahREE86t5Jgr7M6c3c4zlHusQpav602iaZicx5gHJ&fexam=1&X-snsvideoflag=xV6
+```
+
+然后，将“**更改后的链接**”，放到 **IDM、NDM、迅雷** 等下载软件中下载即可。
+
+注意，下载来的文件可能是 **.jpg** 后缀，改为 **.mp4** 即可。
+
+
+
+上面的方法只是普通清晰度的，如何下载到超高清原版视频？
+
+1、先将嗅探得到的链接，从 **20302** 改为 **20304**，比如：
+
+```python
+https://finder.video.qq.com/251/20304/stodownload?encfilekey=6xykWLEnztKcKCJZcV0rWCM8ua7DibZkibqXGfPxf5lroyqume2xib2yxib7glOA4wqNXrm5o1WFM1OWIXSjr1rBYgEGHkQhaSWh19rtvgTMgn1ViazU1Z3sb5WSKZXDAJ9aK8RNFGicUMSxtkyIWBibiaMXctcYb733iaUyWIHWSv0GvaeA&a=1&bizid=1023&dotrans=0&hy=SH&idx=1&m=553b215c632b0f72db73b5604399ab23&web=1&token=6xykWLEnztK4PX62Ov4aiceeGWsFwiauM0qP9tj11yLYWtghpQYRePGFAoP0oVJXvzWfQ78dSzxibGJiceDV83FEiaoMWaiahREE86t5Jgr7M6c3c4zlHusQpav602iaZicx5gHJ&fexam=1&X-snsvideoflag=xV6
+```
+
+2、将该链接复制到“**笔记本**”里，推荐用 Notepad2、Sublime Text 等带语法高亮的文本软件。
+
+Ctrl+F 搜索 **&**，软件会高亮，然后将 **&token** 之外所有的 & 参数删除 。
+
+只留下 **&token** 参数。
+
+3、将清除 &token 之外所有参数的链接，复制到 IDM、NDM、迅雷 等下载软件中下载即可。
+
+清除参数后的链接：
+
+```python
+https://finder.video.qq.com/251/20304/stodownload?encfilekey=6xykWLEnztKcKCJZcV0rWCM8ua7DibZkibqXGfPxf5lroyqume2xib2yxib7glOA4wqNXrm5o1WFM1OWIXSjr1rBYgEGHkQhaSWh19rtvgTMgn1ViazU1Z3sb5WSKZXDAJ9aK8RNFGicUMSxtkyIWBibiaMXctcYb733iaUyWIHWSv0GvaeA&token=6xykWLEnztK4PX62Ov4aiceeGWsFwiauM0qP9tj11yLYWtghpQYRePGFAoP0oVJXvzWfQ78dSzxibGJiceDV83FEiaoMWaiahREE86t5Jgr7M6c3c4zlHusQpav602iaZicx5gHJ
+```
+
+### 使用cmd或者powershell等系统命令行工具找不到winget命令（已在微软商店安装应用安装程序并更新到最新版本）
+
+**第一种情况**是商店中的应用安装程序不是最新的，此时要去github下载最新版本：
+
+下载地址：[Releases · microsoft/winget-cli (github.com)](https://github.com/microsoft/winget-cli/releases)
+
+下载msixbundle后缀的文件并安装。
+
+如果提示”若要使该应用良好运行，请尝试启用一个Windows应用包“ 或 这句话的英文，就是安装成功了
+
+**第二种情况**是由于winget没有添加到环境变量Path中（完成第一种情况的安装后也可能出现这个问题）。
+
+此时需要两步走：1. 确定winget命令的位置 2. 将路径添加到环境变量Path里
+
+第一步我用了搜索工具everything，找到3个名为winget的可执行文件，其中一个文件有大小（13kb），两个没有大小（0kb）。经测试，三者都可用。猜测其中两个没有大小的是类似于快捷方式之类的东西。
+
+将路径加入环境变量Path即可，我最后在环境变量Path中加入的是：
+
+```
+%LOCALAPPDATA%\Microsoft\WindowsApps
+```
+
+因为里面还有很多其他的系统命令，直接加这个一劳永逸，用其他命令也方便。
+
+### 清理C盘（摘自公众号「麦叔编程」）
+
+今天打开电脑准备工作时，发现C盘快爆了！
+
+当初给C盘的80GB的空间，怎么现在只剩了不到2GB的空间？
+
+我也没往C盘装软件，新装的软件都均匀的分布在其他三个盘中。
+
+这就奇怪了，其他盘都没有这种“自身繁殖”的情况出生，唯独C盘有这个情况。
+
+很多小伙伴肯定也很好奇，为什么C盘空间总是会存在不够用的情况？
+
+无论分配多少空间给C盘，它总是会悄悄地变“满”。
+
+而且C盘为系统盘，里面的文件还不太敢去删它。
+
+今天我就不惯着它，就要动它了！
+1. 分析C盘
+
+先用自带的磁盘清理功能先收拾出9个G的空间：
+
+再借助SpaceSniffer工具分析下C盘中空间的占用情况：
+
+    SpaceSniffer工具下载地址：
+    
+    https://www.fosshub.com/SpaceSniffer.html
+
+打开SpaceSniffer工具后选择C盘，点start按键：
+
+然后就能得到一份C盘空间占用图：
+
+根据此图可以看出，C盘被分成3个大的部分：
+
+第一部分为用户数据部分；
+
+而后两部分为系统文件和安装在C盘的软件，这两者我们最好不要去动它。
+
+今天先拿大头AppData开刀，让它搬家！
+2. 迁移AppData数据至其他盘
+
+2.a. 为AppData创建新家，我在E盘创建了一个AppData的文件夹用来作迁移的目标路径：
+
+2.b. 同时按下键盘上的win和r打开运行，在输入框输入regedit打开注册列表：
+
+2.c. 定位到计算机\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders位置：
+
+双击打开AppData配置：
+
+把当前配置AppData的路径换成它新家的路径，点击确定：
+
+2.d. 再定位到计算机\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders位置；
+
+同样用第3步的操作，修改成它新家的路径：
+
+修改后：
+
+    %USERPROFILE%为系统变量设置的路径值，用set命令可以看%USERPROFILE%的值（路径）是什么。
+    
+    图片
+
+上述4步操作做完后我们就可以搬家了！
+
+开始搬AppData
+
+    如果怕有风险的话，可以先备份下数据。
+
+3. 迁移/清除pip缓存数据
+
+在迁移AppData的时候我发现pip cache在C盘里竟然占有4个G的空间。
+
+看来Python也在C盘扎根了。
+
+如果pip缓存文件没啥用的话可以直接使用以下命令直接进行清理：
+
+pip cache purge
+
+清理完之后不想再让pip命令在C盘产生缓存的话，可以使用pip命令重新定义pip缓存路径：
+
+更改pip cache 位置
+
+pip config set global.cache-dir "d:\pythonpipcache"
+
+修改完成后，使用以下命令查看修改后的pip缓存路径。
+
+pip cache dir
+
+    这样操作之后，又给C盘腾出了4个G的空间。
+
+4. 吃C盘大户--WPS
+
+我还发现这WPS也是C盘大户，我也准备让他滚蛋。
+
+    我们在使用office或wps的时候总会产生一些缓存文件用作备份，或者用于Ctrl+Z操作，所以这些办公软件也需要搬家。
+
+搬WPS，我们只要在软件打开后设置下就行了。
+
+把备份放到非C盘就OK了
+
+**最后**
+
+经过以上一系列操作，我终于把C盘重新腾出了近20个G的可用空间。
+
+目前还没感知到任何C盘搬家产生的不良后果。
